@@ -180,5 +180,44 @@
         "hash": "3f02802b3f02802b3f02802b3f02802b",
         "created_at": "2026-06-04T05:33:33.060Z",
         "updated_at": "2026-06-04T05:33:33.060Z"
+    },
+    {
+        "id": "1xU8cUQfdqR9D5XVH1PhGAhB28hCi_QB",
+        "plugin": "obsidian42-brat",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.1",
+        "supported_versions": "2.0.3",
+        "title": "[zh-cn] BRAT",
+        "description": "BRAT Localization & Tweaks",
+        "hash": "2532d1fb2532d1fb2532d1fb2532d1fb",
+        "created_at": "2026-06-04T05:37:04.941Z",
+        "updated_at": "2026-06-04T05:37:04.941Z"
+    },
+    {
+        "id": "CXgRmgaK7CsDdCa7byISwLCwppDp_c-b",
+        "plugin": "templater-obsidian",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.18.1",
+        "title": "Templater",
+        "description": "Templater Localization & Tweaks",
+        "hash": "5f10c48d5f10c48d5f10c48d5f10c48d",
+        "created_at": "2026-06-04T05:37:04.943Z",
+        "updated_at": "2026-06-04T05:37:04.943Z"
+    },
+    {
+        "id": "Crmbg72U_eHjOjL-AgmTj98RxnFi8vXJ",
+        "plugin": "Border",
+        "type": "theme",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.13.5",
+        "title": "Border",
+        "description": "Border主题中文调整",
+        "hash": "10510ffb10510ffb10510ffb10510ffb",
+        "created_at": "2026-06-04T05:37:04.943Z",
+        "updated_at": "2026-06-04T05:37:04.943Z"
     }
 ]
