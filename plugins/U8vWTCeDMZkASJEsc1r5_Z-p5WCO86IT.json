@@ -2,7 +2,7 @@
     "schemaVersion": 1,
     "metadata": {
         "plugin": "obsidian-emoji-toolbar",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "title": "Emoji Toolbar zh-cn",
         "description": "Emoji Toolbar Localization & Tweaks",
         "language": "zh-cn",
@@ -508,7 +508,7 @@
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Hugging Face",
-                    "target": "拥抱脸"
+                    "target": "拥抱脸小黄"
                 },
                 {
                     "type": "ObjectProperty",
