@@ -225,12 +225,12 @@
         "plugin": "obsidian-emoji-toolbar",
         "type": "plugin",
         "language": "zh-cn",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "supported_versions": "1.0.0",
         "title": "Emoji Toolbar zh-cn",
         "description": "Emoji Toolbar Localization & Tweaks",
-        "hash": "18649cb018649cb018649cb018649cb0",
+        "hash": "2c77629c2c77629c2c77629c2c77629c",
         "created_at": "2026-06-04T06:27:14.131Z",
-        "updated_at": "2026-06-04T06:27:14.131Z"
+        "updated_at": "2026-06-04T06:36:00.120Z"
     }
 ]
