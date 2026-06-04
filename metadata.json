@@ -63,5 +63,18 @@
         "created_at": "2026-06-04T03:15:11.895Z",
         "updated_at": "2026-06-04T03:15:11.895Z",
         "type": "plugin"
+    },
+    {
+        "id": "kaS82N-uMzuLw6UMuxEjTy4opkhCV5TN",
+        "plugin": "obsidian-icon-folder",
+        "language": "zh-cn",
+        "version": "2.14.7",
+        "supported_versions": "2.14.7",
+        "title": "Iconize",
+        "description": "在黑曜石中为任何你想要的东西添加图标，包括文件、文件夹和文本。",
+        "hash": "5873f34f5873f34f5873f34f5873f34f",
+        "created_at": "2026-06-04T03:16:52.444Z",
+        "updated_at": "2026-06-04T03:16:52.444Z",
+        "type": "plugin"
     }
 ]
