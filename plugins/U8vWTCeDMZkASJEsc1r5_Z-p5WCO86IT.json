@@ -508,7 +508,7 @@
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Hugging Face",
-                    "target": "拥抱脸小黄"
+                    "target": "拥抱脸"
                 },
                 {
                     "type": "ObjectProperty",
