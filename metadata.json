@@ -229,9 +229,9 @@
         "supported_versions": "1.0.0",
         "title": "Emoji Toolbar zh-cn",
         "description": "Emoji Toolbar Localization & Tweaks",
-        "hash": "2c77629c2c77629c2c77629c2c77629c",
+        "hash": "4bda412f4bda412f4bda412f4bda412f",
         "created_at": "2026-06-04T06:27:14.131Z",
-        "updated_at": "2026-06-04T06:36:00.120Z"
+        "updated_at": "2026-06-15T09:13:41.549Z"
     },
     {
         "id": "Y3tmH_52a6_JWQsRpWwOmezcEyyHYghc",
@@ -258,5 +258,109 @@
         "created_at": "2026-06-10T06:59:53.218Z",
         "updated_at": "2026-06-10T06:59:53.218Z",
         "type": "plugin"
+    },
+    {
+        "id": "bGvbzaPSd2CZLhgs1t3tuHPF7xVx1lSV",
+        "plugin": "media-extended",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "4.2.7",
+        "supported_versions": "4.2.7",
+        "title": "[zh-tw] Media Extended",
+        "description": "Media Extended 繁體中文化與微調",
+        "hash": "367f967c367f967c367f967c367f967c",
+        "created_at": "2026-06-15T09:13:41.547Z",
+        "updated_at": "2026-06-15T09:13:41.547Z"
+    },
+    {
+        "id": "DrBF3FIOyixVAs2nTUsNaesGLm7DrddM",
+        "plugin": "obsidian-memos",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.0.13",
+        "title": "Thino-zh-cn",
+        "description": "Thino Localization & Tweaks",
+        "hash": "674e5aa2674e5aa2674e5aa2674e5aa2",
+        "created_at": "2026-06-15T09:13:41.546Z",
+        "updated_at": "2026-06-15T09:13:41.546Z"
+    },
+    {
+        "id": "pXUtJ580gpf0gdciNUME-mwn4fEsUogm",
+        "plugin": "omnisearch",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.29.3",
+        "title": "Omnisearch",
+        "description": "Omnisearch Localization & Tweaks",
+        "hash": "799117c4799117c4799117c4799117c4",
+        "created_at": "2026-06-15T09:13:41.545Z",
+        "updated_at": "2026-06-15T09:13:41.545Z"
+    },
+    {
+        "id": "7bXHHtXI9784LfVHVP_8qmj--KpkkBF-",
+        "plugin": "obsidian-enhancing-mindmap",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.2.5",
+        "title": "Enhancing Mindmap-zh-cn",
+        "description": "Enhancing Mindmap Localization & Tweaks",
+        "hash": "3ca5a5bf3ca5a5bf3ca5a5bf3ca5a5bf",
+        "created_at": "2026-06-15T09:13:41.545Z",
+        "updated_at": "2026-06-15T09:13:41.545Z"
+    },
+    {
+        "id": "W4hRRKQ18KxdsE69WGbWp872NqHmuctC",
+        "plugin": "lovely-mindmap",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.0.4",
+        "title": "Lovely-Mindmap zh-cn",
+        "description": "Lovely-Mindmap Localization & Tweaks",
+        "hash": "71a4e9a271a4e9a271a4e9a271a4e9a2",
+        "created_at": "2026-06-15T09:13:41.546Z",
+        "updated_at": "2026-06-15T09:13:41.546Z"
+    },
+    {
+        "id": "SW84ogtAZKaHbXulrbJAPcz3GOeZqNB-",
+        "plugin": "tag-wrangler",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.6.4",
+        "title": "Tag Wrangler zh-cn",
+        "description": "Tag Wrangler Localization & Tweaks",
+        "hash": "3200ca2f3200ca2f3200ca2f3200ca2f",
+        "created_at": "2026-06-15T09:13:41.545Z",
+        "updated_at": "2026-06-15T09:13:41.545Z"
+    },
+    {
+        "id": "ETBMHAG1EwXy7G8mRCn0xiGarn-AY3ZW",
+        "plugin": "obsidian-mind-map",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.1.0",
+        "title": "Mind Map zh-cn",
+        "description": "Mind Map Localization & Tweaks",
+        "hash": "055ecfa5055ecfa5055ecfa5055ecfa5",
+        "created_at": "2026-06-15T09:13:41.547Z",
+        "updated_at": "2026-06-15T09:13:41.547Z"
+    },
+    {
+        "id": "E6oHsrFNuGlTr4349D6lijKBPTZE1r_u",
+        "plugin": "advanced-canvas",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "6.2.1",
+        "title": "Advanced Canvas",
+        "description": "Advanced Canvas Localization & Tweaks",
+        "hash": "634db5a9634db5a9634db5a9634db5a9",
+        "created_at": "2026-06-15T09:13:41.551Z",
+        "updated_at": "2026-06-15T09:13:41.551Z"
     }
 ]
