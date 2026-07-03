@@ -3,7 +3,7 @@
     "metadata": {
         "plugin": "editing-toolbar",
         "version": "1.0.0",
-        "title": "[feichuan][zh-cn] Editing Toolbar",
+        "title": "Editing Toolbar zh-cn",
         "description": "Editing Toolbar Localization & Tweaks",
         "language": "zh-cn",
         "supportedVersions": "4.0.8",
@@ -58,79 +58,79 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "custom",
-                    "target": "custom"
+                    "target": "自定义"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "All commands",
-                    "target": "All commands"
+                    "target": "所有命令"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "all",
-                    "target": "all"
+                    "target": "全部"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "mobile",
-                    "target": "mobile"
+                    "target": "移动端"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "fixed",
-                    "target": "fixed"
+                    "target": "固定"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "top",
-                    "target": "top"
+                    "target": "置顶"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "following",
-                    "target": "following"
+                    "target": "跟随"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "overwrite",
-                    "target": "overwrite"
+                    "target": "覆盖"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "update",
-                    "target": "update"
+                    "target": "更新"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Main menu",
-                    "target": "Main menu"
+                    "target": "主菜单"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "Main Menu Commands",
-                    "target": "Main Menu Commands"
+                    "target": "主菜单命令"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "light",
-                    "target": "light"
+                    "target": "浅色"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "┌ Light",
-                    "target": "┌ Light"
+                    "target": "┌ 浅色"
                 },
                 {
                     "type": "CallExpression",
@@ -142,7 +142,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "├ Dark",
-                    "target": "├ Dark"
+                    "target": "├ 深色"
                 },
                 {
                     "type": "CallExpression",
@@ -154,7 +154,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "├ Vibrant",
-                    "target": "├ Vibrant"
+                    "target": "├ 鲜艳"
                 },
                 {
                     "type": "CallExpression",
@@ -166,7 +166,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "├ Minimal",
-                    "target": "├ Minimal"
+                    "target": "├ 极简"
                 },
                 {
                     "type": "CallExpression",
@@ -178,7 +178,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "└ Elegant",
-                    "target": "└ Elegant"
+                    "target": "└ 优雅"
                 },
                 {
                     "type": "CallExpression",
@@ -208,13 +208,13 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "---- Admonitions ----",
-                    "target": "---- Admonitions ----"
+                    "target": "---- 警示 ----"
                 },
                 {
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "---- Default ----",
-                    "target": "---- Default ----"
+                    "target": "---- 默认 ----"
                 },
                 {
                     "type": "CallExpression",
@@ -376,43 +376,43 @@
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Failed to set icon:",
-                    "target": "Failed to set icon:"
+                    "target": "设置图标失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Cannot find parent dataset id",
-                    "target": "Cannot find parent dataset id"
+                    "target": "找不到父级数据集ID"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Cannot find parent command:",
-                    "target": "Cannot find parent command:"
+                    "target": "找不到父级命令:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Invalid drag operation",
-                    "target": "Invalid drag operation"
+                    "target": "无效的拖拽操作"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Cannot find target dataset id",
-                    "target": "Cannot find target dataset id"
+                    "target": "找不到目标数据集ID"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Cannot find target command:",
-                    "target": "Cannot find target command:"
+                    "target": "找不到目标命令:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Failed to read clipboard:",
-                    "target": "Failed to read clipboard:"
+                    "target": "读取剪贴板失败:"
                 },
                 {
                     "type": "CallExpression",
@@ -430,109 +430,109 @@
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Copy failed:",
-                    "target": "Copy failed:"
+                    "target": "复制失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Paste failed:",
-                    "target": "Paste failed:"
+                    "target": "粘贴失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Cut failed:",
-                    "target": "Cut failed:"
+                    "target": "剪切失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "PKMer OAuth login error:",
-                    "target": "PKMer OAuth login error:"
+                    "target": "PKMer OAuth登录错误:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "PKMer OAuth callback error:",
-                    "target": "PKMer OAuth callback error:"
+                    "target": "PKMer OAuth回调错误:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Callback server error:",
-                    "target": "Callback server error:"
+                    "target": "回调服务器错误:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Failed to start callback server:",
-                    "target": "Failed to start callback server:"
+                    "target": "启动回调服务器失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Token exchange failed:",
-                    "target": "Token exchange failed:"
+                    "target": "令牌交换失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Token refresh failed:",
-                    "target": "Token refresh failed:"
+                    "target": "令牌刷新失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Failed to fetch user info:",
-                    "target": "Failed to fetch user info:"
+                    "target": "获取用户信息失败:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[AI Completion] Error:",
-                    "target": "[AI Completion] Error:"
+                    "target": "[AI补全] 错误:"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[AI Rewrite] Failed to copy result:",
-                    "target": "[AI Rewrite] Failed to copy result:"
+                    "target": "[AI Rewrite] 复制结果失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[AI Artifact] Failed to create file:",
-                    "target": "[AI Artifact] Failed to create file:"
+                    "target": "[AI Artifact] 创建文件失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[AI Rewrite] Error:",
-                    "target": "[AI Rewrite] Error:"
+                    "target": "[AI Rewrite] 错误："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[AI Settings] Failed to determine provider route:",
-                    "target": "[AI Settings] Failed to determine provider route:"
+                    "target": "[AI Settings] 无法确定提供程序路由："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[Canvas AI] Failed to expand current node:",
-                    "target": "[Canvas AI] Failed to expand current node:"
+                    "target": "[Canvas AI] 展开当前节点失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[Canvas AI] Failed to run global instruction:",
-                    "target": "[Canvas AI] Failed to run global instruction:"
+                    "target": "[Canvas AI] 执行全局指令失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[Canvas AI] Failed to generate derived markdown:",
-                    "target": "[Canvas AI] Failed to generate derived markdown:"
+                    "target": "[Canvas AI] 生成派生 Markdown 失败："
                 },
                 {
                     "type": "CallExpression",
@@ -544,7 +544,7 @@
                     "type": "CallExpression",
                     "name": "log",
                     "source": "Editing Toolbar: Failed to find target DOM element for toolbar insertion",
-                    "target": "Editing Toolbar: Failed to find target DOM element for toolbar insertion"
+                    "target": "编辑工具栏：找不到用于插入工具栏的目标 DOM 元素"
                 },
                 {
                     "type": "CallExpression",
@@ -586,7 +586,7 @@
                     "type": "CallExpression",
                     "name": "warn",
                     "source": "[Canvas AI] Falling back to deterministic reorganization plan:",
-                    "target": "[Canvas AI] Falling back to deterministic reorganization plan:"
+                    "target": "[Canvas AI] 回退到确定性重组方案："
                 },
                 {
                     "type": "CallExpression",
@@ -598,19 +598,19 @@
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "The selected style has no commands to import.",
-                    "target": "The selected style has no commands to import."
+                    "target": "所选样式没有可导入的命令。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "All commands have been removed.",
-                    "target": "All commands have been removed."
+                    "target": "所有命令已被移除。"
                 },
                 {
                     "type": "NewExpression",
                     "name": "Notice",
                     "source": "Please select text first",
-                    "target": "Please select text first"
+                    "target": "请先选择文本"
                 },
                 {
                     "type": "ObjectProperty",
@@ -940,43 +940,43 @@
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "📝 Summarize Key Points",
-                    "target": "📝 Summarize Key Points"
+                    "target": "📝 总结关键点"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Extract Tasks",
-                    "target": "Extract Tasks"
+                    "target": "提取任务"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Generate Dataview",
-                    "target": "Generate Dataview"
+                    "target": "生成 Dataview"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Design Templater Template",
-                    "target": "Design Templater Template"
+                    "target": "设计 Templater 模板"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Create Mermaid Diagram",
-                    "target": "Create Mermaid Diagram"
+                    "target": "创建 Mermaid 图表"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Design YAML",
-                    "target": "Design YAML"
+                    "target": "设计 YAML"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Wrap with Callout",
-                    "target": "Wrap with Callout"
+                    "target": "用 Callout 包裹"
                 },
                 {
                     "type": "ObjectProperty",
