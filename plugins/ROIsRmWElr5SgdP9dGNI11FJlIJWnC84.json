@@ -1,0 +1,70 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "chinese-punctuation-converter",
+        "version": "1.0.0",
+        "title": "Chinese Punctuation Converter",
+        "description": "Chinese Punctuation Converter Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.0.3",
+        "author": "Zergo"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "en",
+                    "target": "en"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "English",
+                    "target": "英语"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "zh",
+                    "target": "zh"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "中文",
+                    "target": "中文"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Auto",
+                    "target": "自动"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "name:`${v[b(this.settings.lang)]}: ${C.toggle[h()]}`",
+                    "target": "name:`${v[b(this.settings.lang)]}: ${C.toggle[h()]}`"
+                },
+                {
+                    "source": "name:`${v[b(this.settings.lang)]}: ${C.convertFile[h()]}`",
+                    "target": "name:`${v[b(this.settings.lang)]}: ${C.convertFile[h()]}`"
+                },
+                {
+                    "source": "name:`${v[b(this.settings.lang)]}: ${C.toggleIgnoreCodeBlocks[h()]}`",
+                    "target": "name:`${v[b(this.settings.lang)]}: ${C.toggleIgnoreCodeBlocks[h()]}`"
+                },
+                {
+                    "source": "name:`${v[b(this.settings.lang)]}: ${C.toggleIgnoreMath[h()]}`",
+                    "target": "name:`${v[b(this.settings.lang)]}: ${C.toggleIgnoreMath[h()]}`"
+                },
+                {
+                    "source": "name:`${v[b(this.settings.lang)]}: ${C.toggleIgnoreFrontmatter[h()]}`",
+                    "target": "name:`${v[b(this.settings.lang)]}: ${C.toggleIgnoreFrontmatter[h()]}`"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1712 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "karpathywiki",
+        "version": "1.0.0",
+        "title": "Karpathy LLM Wiki zh-cn",
+        "description": "Karpathy LLM Wiki Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.23.2",
+        "author": "Zergo"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "custom",
+                    "target": "自定义"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "default",
+                    "target": "默认"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "lower",
+                    "target": "小写"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "preserve",
+                    "target": "保留"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "fine",
+                    "target": "精细"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "standard",
+                    "target": "标准"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "coarse",
+                    "target": "粗略"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "minimal",
+                    "target": "最小"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "silent",
+                    "target": "静默"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "visible",
+                    "target": "可见"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "notify",
+                    "target": "通知"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "notice",
+                    "target": "提醒"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "modal",
+                    "target": "模态"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "off",
+                    "target": "关闭"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "daily",
+                    "target": "每日"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "weekly",
+                    "target": "每周"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "monthly",
+                    "target": "每月"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "button",
+                    "target": "按钮"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "ul",
+                    "target": "无序列表"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "li",
+                    "target": "列表项"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "span",
+                    "target": "span"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "details",
+                    "target": "details"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "summary",
+                    "target": "summary"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "div",
+                    "target": "div"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "select",
+                    "target": "select"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "option",
+                    "target": "option"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "strong",
+                    "target": "strong"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "table",
+                    "target": "table"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "thead",
+                    "target": "thead"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "tr",
+                    "target": "tr"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "th",
+                    "target": "th"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "tbody",
+                    "target": "tbody"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "td",
+                    "target": "td"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "textarea",
+                    "target": "textarea"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Schema suggestion failed:",
+                    "target": "Schema suggestion failed:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "LLM repair also failed (brace-count):",
+                    "target": "LLM repair also failed (brace-count):"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "LLM repair also failed (greedy regex):",
+                    "target": "LLM repair also failed (greedy regex):"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "JSON parse completely failed (length %d)",
+                    "target": "JSON parse completely failed (length %d)"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "first 200 chars after normalization:",
+                    "target": "first 200 chars after normalization:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "last 200 chars after normalization:",
+                    "target": "归一化后最后200个字符："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "parseJsonResponse exception:",
+                    "target": "parseJsonResponse 异常："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "❌ Round 1 unusable — no entities or concepts:",
+                    "target": "❌ 第1轮不可用 — 无实体或概念："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "=== Ingestion failed ===",
+                    "target": "=== 摄取失败 ==="
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error:",
+                    "target": "错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Unhandled error:",
+                    "target": "未处理的错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Save failed:",
+                    "target": "保存失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Non-streaming fallback also failed:",
+                    "target": "非流式回退也失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Query failed:",
+                    "target": "查询失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[Error] buildWikiContext failed:",
+                    "target": "[错误] buildWikiContext 失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Schema apply failed:",
+                    "target": "Schema 应用失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[localizeWelcomeNote] LLM call threw:",
+                    "target": "[localizeWelcomeNote] LLM 调用抛出异常："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Scheduled lint failed:",
+                    "target": "计划内 lint 失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[QuickFixes] Phase 0b (async Welcome) failed:",
+                    "target": "[QuickFixes] 阶段 0b（异步 Welcome）失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "lintWiki: duplicate detection batch failed:",
+                    "target": "lintWiki：重复检测批次失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Duplicate detection failed:",
+                    "target": "重复检测失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to resolve contradiction:",
+                    "target": "解决矛盾失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Regenerate index failed:",
+                    "target": "重新生成索引失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "LLM Client initialization failed:",
+                    "target": "LLM 客户端初始化失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Single ingest failed:",
+                    "target": "单次摄取失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Ingest active file failed:",
+                    "target": "摄入活动文件失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Connection test failed:",
+                    "target": "连接测试失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Copy",
+                    "target": "复制"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Copied!",
+                    "target": "已复制！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Failed",
+                    "target": "失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "LLM wiki",
+                    "target": "LLM 维基"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "AI SDK Warning: System messages in the prompt or messages fields can be a security risk because they may enable prompt injection attacks. Use the system option instead when possible. Set allowSystemInMessages to true to suppress this warning, or false to throw an error.",
+                    "target": "AI SDK 警告：提示词或消息字段中的系统消息可能存在安全风险，因为它们可能引发提示注入攻击。请尽可能使用系统选项。设置 allowSystemInMessages 为 true 可抑制此警告，设为 false 则会抛出错误。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "slugify: input text is empty",
+                    "target": "slugify：输入文本为空"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[Related pages] Programmatic matching failed:",
+                    "target": "[相关页面] 程序化匹配失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Streaming query failed, falling back to non-streaming:",
+                    "target": "流式查询失败，回退至非流式查询："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[LLM seed selection failed]",
+                    "target": "[LLM 种子选择失败]"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to read schema file, ignoring",
+                    "target": "读取模式文件失败，已忽略"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[QuickFixes] Phase 0 failed:",
+                    "target": "[快速修复] 阶段 0 失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[QuickFixes] Phase 2 failed:",
+                    "target": "[快速修复] 阶段 2 失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[QuickFixes] Phase 3 failed:",
+                    "target": "[快速修复] 阶段 3 失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[QuickFixes] Phase 4.5 failed:",
+                    "target": "[快速修复] 阶段 4.5 失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "[v1.23.0 LLM migration] Failed to preload AI-SDK modules:",
+                    "target": "[v1.23.0 LLM 迁移] 预加载 AI-SDK 模块失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Auto wiki init failed:",
+                    "target": "自动维基初始化失败："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "llm-wiki-query-send-btn mod-cta",
+                    "target": "llm-wiki-query-send-btn mod-cta"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "llm-wiki-query-message-wrapper llm-wiki-query-message-assistant llm-wiki-query-response-live",
+                    "target": "llm-wiki-query-message-wrapper llm-wiki-query-message-assistant llm-wiki-query-response-live"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "llm-wiki-query-message-body markdown-reading-view",
+                    "target": "llm-wiki-query-message-body markdown-reading-view"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "llm-wiki-schema-diff-pane llm-wiki-schema-diff-pane-left",
+                    "target": "llm-wiki-schema-diff-pane llm-wiki-schema-diff-pane-left"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "llm-wiki-schema-diff-pane llm-wiki-schema-diff-pane-right",
+                    "target": "llm-wiki-schema-diff-pane llm-wiki-schema-diff-pane-right"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "content",
+                    "source": "hi",
+                    "target": "你好"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "content",
+                    "source": "Test connection. Please reply \"Connection successful\".",
+                    "target": "测试连接。请回复“连接成功”。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "OpenAI",
+                    "target": "OpenAI"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Anthropic",
+                    "target": "Anthropic"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Respond with a JSON object.",
+                    "target": "以 JSON 对象形式回复。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Description",
+                    "target": "描述"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "描述",
+                    "target": "描述"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "説明",
+                    "target": "説明"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "설명",
+                    "target": "설명"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Beschreibung",
+                    "target": "Beschreibung"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Descripción",
+                    "target": "Descripción"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Descrição",
+                    "target": "Descrição"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "Descrizione",
+                    "target": "Descrizione"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "duplicate of another file in this batch",
+                    "target": "与此批次中的另一个文件重复"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "detail",
+                    "source": "content already ingested",
+                    "target": "内容已导入"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "LLM response did not contain a valid `translated` field",
+                    "target": "LLM 响应未包含有效的 `translated` 字段"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "LLM client not configured. Open Settings → LLM Provider.",
+                    "target": "LLM 客户端未配置。请打开设置 → LLM 提供商。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "API key not configured.",
+                    "target": "API 密钥未配置。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "error",
+                    "source": "Model not selected.",
+                    "target": "未选择模型。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "label",
+                    "source": "model",
+                    "target": "模型"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "URL must have a hostname",
+                    "target": "URL 必须包含主机名"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Failed to process error response",
+                    "target": "处理错误响应失败"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Failed to process successful response",
+                    "target": "处理成功响应失败"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid JSON response",
+                    "target": "无效的 JSON 响应"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Response body is empty",
+                    "target": "响应体为空"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Failed to read response as array buffer",
+                    "target": "无法将响应读取为数组缓冲区"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "SSE response body is empty",
+                    "target": "SSE 响应体为空"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "SSE stream ended without a data event",
+                    "target": "SSE 流结束，未收到数据事件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Failed to parse video SSE event",
+                    "target": "解析视频 SSE 事件失败"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid data content. Content string is not a base64-encoded media.",
+                    "target": "无效的数据内容。内容字符串不是 base64 编码的媒体。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "maxOutputTokens must be an integer",
+                    "target": "maxOutputTokens 必须为整数"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "maxOutputTokens must be >= 1",
+                    "target": "maxOutputTokens 必须 >= 1"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "temperature must be a number",
+                    "target": "temperature 必须为数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "topP must be a number",
+                    "target": "topP 必须为数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "topK must be a number",
+                    "target": "topK 必须为数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "presencePenalty must be a number",
+                    "target": "presencePenalty 必须为数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "frequencyPenalty must be a number",
+                    "target": "frequencyPenalty 必须为数字"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "seed must be an integer",
+                    "target": "seed 必须为整数"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "prompt or messages must be defined",
+                    "target": "必须定义 prompt 或 messages"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "prompt and messages cannot be defined at the same time",
+                    "target": "prompt 和 messages 不能同时定义"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "system must be a string, SystemModelMessage, or array of SystemModelMessage",
+                    "target": "system 必须是字符串、SystemModelMessage 或 SystemModelMessage 数组"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "messages must not be empty",
+                    "target": "messages 不能为空"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "System messages are not allowed in the prompt or messages fields. Use the system option instead.",
+                    "target": "系统消息不允许出现在 prompt 或 messages 字段中。请改用 system 选项。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "The messages do not match the ModelMessage[] schema.",
+                    "target": "消息不符合 ModelMessage[] 架构。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "maxRetries must be an integer",
+                    "target": "maxRetries 必须为整数"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "maxRetries must be >= 0",
+                    "target": "maxRetries 必须 >= 0"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "messages parameter must be provided",
+                    "target": "必须提供 messages 参数"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No object generated: could not parse the response.",
+                    "target": "未生成对象：无法解析响应。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No object generated: response did not match schema.",
+                    "target": "未生成对象：响应与架构不匹配。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Invalid output type.",
+                    "target": "无效的输出类型。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Schema is not supported for no-schema output.",
+                    "target": "无架构输出不支持架构。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Schema description is not supported for no-schema output.",
+                    "target": "无架构输出不支持架构描述。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Schema name is not supported for no-schema output.",
+                    "target": "无架构输出不支持架构名称。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Enum values are not supported for no-schema output.",
+                    "target": "无架构输出不支持枚举值。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Schema is required for object output.",
+                    "target": "对象输出需要架构。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Enum values are not supported for object output.",
+                    "target": "对象输出不支持枚举值。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Element schema is required for array output.",
+                    "target": "数组输出需要元素架构。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Enum values are not supported for array output.",
+                    "target": "数组输出不支持枚举值。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Schema is not supported for enum output.",
+                    "target": "枚举输出不支持Schema。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Schema description is not supported for enum output.",
+                    "target": "枚举输出不支持Schema描述。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Schema name is not supported for enum output.",
+                    "target": "枚举输出不支持Schema名称。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Enum values are required for enum output.",
+                    "target": "枚举输出需要枚举值。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Enum values must be strings.",
+                    "target": "枚举值必须是字符串。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No object generated: the model did not return a response.",
+                    "target": "未生成对象：模型未返回响应。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Vectors must have the same length",
+                    "target": "向量长度必须相同。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "inputReferences were ignored because frameImages were provided; frameImages and inputReferences cannot be combined.",
+                    "target": "由于提供了frameImages，inputReferences被忽略；frameImages和inputReferences不能同时使用。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "prompt.image was ignored because a first_frame frameImage was provided; the first_frame frameImage takes precedence as the start image.",
+                    "target": "由于提供了第一帧frameImage，prompt.image被忽略；第一帧frameImage将作为起始图像优先使用。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No speech audio generated.",
+                    "target": "未生成语音音频。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No transcript generated.",
+                    "target": "未生成转录文本。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Must be a Buffer",
+                    "target": "必须是Buffer类型。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Type must start with \"data-\"",
+                    "target": "类型必须以\"data-\"开头。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No output generated. Check the stream for errors.",
+                    "target": "未生成输出。请检查流中的错误。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "No output generated. The model stream ended without a finish chunk.",
+                    "target": "未生成输出。模型流在未收到完成块的情况下结束。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "system messages are removed for this model",
+                    "target": "此模型已移除系统消息。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Unexpected system message in prompt: ${content}",
+                    "target": "提示中存在意外的系统消息：${content}"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Reasoning parts without encrypted content are not supported when store is false. Skipping reasoning parts.",
+                    "target": "当store为false时，不支持包含加密内容的推理部分。已跳过推理部分。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Received a Chat Completions stream while using the OpenAI Responses API. The default OpenAI provider model uses the Responses API. If your custom baseURL targets a Chat Completions-compatible endpoint, use openai.chat('model-id') or createOpenAI(...).chat('model-id') instead. You can also use @ai-sdk/openai-compatible for OpenAI-compatible providers.",
+                    "target": "在使用OpenAI Responses API时收到了Chat Completions流。默认的OpenAI提供商模型使用Responses API。如果您的自定义baseURL指向兼容Chat Completions的端点，请改用openai.chat('model-id')或createOpenAI(...).chat('model-id')。您也可以对兼容OpenAI的提供商使用@ai-sdk/openai-compatible。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "logprobs is not supported for reasoning models",
+                    "target": "推理模型不支持logprobs"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "logitBias is not supported for reasoning models",
+                    "target": "推理模型不支持logitBias"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "topLogprobs is not supported for reasoning models",
+                    "target": "推理模型不支持topLogprobs"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Expected 'function' type.",
+                    "target": "预期为'function'类型。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Expected 'id' to be a string.",
+                    "target": "预期'id'为字符串。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Expected 'function.name' to be a string.",
+                    "target": "预期'function.name'为字符串。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "unsupported custom tool content part",
+                    "target": "不支持的自定义工具内容部分"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "unsupported reasoning metadata",
+                    "target": "不支持的推理元数据"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "sending reasoning content is disabled for this model",
+                    "target": "此模型已禁用发送推理内容"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "mcp tool use server name is required and must be a string",
+                    "target": "mcp工具使用服务器名称是必需的，且必须为字符串"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "Both apiKey and authToken were provided. Please use only one authentication method.",
+                    "target": "同时提供了apiKey和authToken。请仅使用一种认证方法。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "code execution tool is required when using skills",
+                    "target": "使用技能时需要代码执行工具"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "message",
+                    "source": "The 'openai-compatible' key in providerOptions is deprecated. Use 'openaiCompatible' instead.",
+                    "target": "providerOptions中的'openai-compatible'键已弃用。请改用'openaiCompatible'。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "InvalidDataContentError",
+                    "target": "InvalidDataContentError"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "GatewayError",
+                    "target": "GatewayError"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "GatewayAuthenticationError",
+                    "target": "GatewayAuthenticationError"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "text",
+                    "target": "text"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "object",
+                    "target": "object"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "array",
+                    "target": "array"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "choice",
+                    "target": "choice"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "json",
+                    "target": "json"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "computer",
+                    "target": "computer"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "bash",
+                    "target": "bash"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "memory",
+                    "target": "memory"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "advisor",
+                    "target": "advisor"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "OpenAI",
+                    "target": "OpenAI"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Anthropic (Claude)",
+                    "target": "Anthropic (Claude)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Google Gemini",
+                    "target": "Google Gemini"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "OpenRouter",
+                    "target": "OpenRouter"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "DeepSeek",
+                    "target": "DeepSeek"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "MiniMax",
+                    "target": "MiniMax"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Kimi (Moonshot)",
+                    "target": "Kimi (Moonshot)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "GLM (Zhipu AI)",
+                    "target": "GLM (Zhipu AI)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Ollama (Local)",
+                    "target": "Ollama (Local)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "LM Studio (Local)",
+                    "target": "LM Studio (Local)"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Custom OpenAI-Compatible",
+                    "target": "Custom OpenAI-Compatible"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Custom Anthropic-Compatible",
+                    "target": "Custom Anthropic-Compatible"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "Auto-generated knowledge base directory",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "自动生成的知识库目录",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "自動生成ナレッジベースディレクトリ",
+                    "target": "自動生成ナレッジベースディレクトリ"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "자동 생성 지식 베이스 디렉토리",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "Automatisch generiertes Wissensdatenbank-Verzeichnis",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "Répertoire de base de connaissances généré automatiquement",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "Directorio de base de conocimiento generado automáticamente",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "Diretório de base de conhecimento gerado automaticamente",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "subtitle",
+                    "source": "自動生成的知識庫目錄",
+                    "target": "自动生成的知识库目录"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Reason: ",
+                    "target": "原因："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "🤖 Wiki",
+                    "target": "🤖 Wiki"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "text",
+                    "target": "文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "checkbox",
+                    "target": "复选框"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "type",
+                    "source": "date",
+                    "target": "日期"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "all",
+                    "target": "全部"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "ingest",
+                    "target": "导入"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "maintenance",
+                    "target": "维护"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "fix",
+                    "target": "修复"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "contradictions",
+                    "target": "矛盾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "value",
+                    "source": "custom",
+                    "target": "自定义"
+                },
+                {
+                    "type": "VariableDeclarator",
+                    "name": "title",
+                    "source": "Welcome to your LLM-Wiki",
+                    "target": "欢迎使用您的 LLM-Wiki"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "error(`[Batch ${batchNum + 1}] JSON parse failed, skipping batch`)",
+                    "target": "error(`[Batch ${batchNum + 1}] JSON parse failed, skipping batch`)"
+                },
+                {
+                    "source": "error(`Entity \"${entity.name}\" retry also failed`)",
+                    "target": "error(`Entity \"${entity.name}\" retry also failed`)"
+                },
+                {
+                    "source": "error(`Concept \"${concept.name}\" retry also failed`)",
+                    "target": "error(`Concept \"${concept.name}\" retry also failed`)"
+                },
+                {
+                    "source": "error(`Related page \"${task.name}\" retry also failed`)",
+                    "target": "error(`Related page \"${task.name}\" retry also failed`)"
+                },
+                {
+                    "source": "error(\"=== Ingestion failed ===\")",
+                    "target": "error(\"=== Ingestion failed ===\")"
+                },
+                {
+                    "source": "setText(`${texts.queryModalSendButton} (Ctrl+Enter)`)",
+                    "target": "setText(`${texts.queryModalSendButton} (Ctrl+Enter)`)"
+                },
+                {
+                    "source": "error(\"Schema apply failed:\", err);\n      });\n    });\n  }\n  renderPane(leftPane, rightPane) {\n    leftPane.empty();\n    rightPane.empty();\n    for (const row of this.rows) {\n      leftPane.appendChild(this.renderCell(row.leftLineNo, row.leftText, row.op === \"del\", \"left\")",
+                    "target": "error(\"Schema apply failed:\", err);\n      });\n    });\n  }\n  renderPane(leftPane, rightPane) {\n    leftPane.empty();\n    rightPane.empty();\n    for (const row of this.rows) {\n      leftPane.appendChild(this.renderCell(row.leftLineNo, row.leftText, row.op === \"del\", \"left\")"
+                },
+                {
+                    "source": "Notice(\"\", 0);\n  return {\n    setMessage(msg) {\n      notice.setMessage(msg);\n      ctx.wikiEngine.updateStatusBar(msg);\n    },\n    hide() {\n      notice.hide();\n      ctx.wikiEngine.updateStatusBar(\"\")",
+                    "target": "Notice(\"\", 0);\n  return {\n    setMessage(msg) {\n      notice.setMessage(msg);\n      ctx.wikiEngine.updateStatusBar(msg);\n    },\n    hide() {\n      notice.hide();\n      ctx.wikiEngine.updateStatusBar(\"\")"
+                },
+                {
+                    "source": "Notice(\"\", 0);\n  try {\n    for (let i = 0; i < duplicates.length; i++) {\n      checkCancelled(signal);\n      const d = duplicates[i];\n      const sourceRel = d.source.replace(ctx.settings.wikiFolder + \"/\", \"\")",
+                    "target": "Notice(\"\", 0);\n  try {\n    for (let i = 0; i < duplicates.length; i++) {\n      checkCancelled(signal);\n      const d = duplicates[i];\n      const sourceRel = d.source.replace(ctx.settings.wikiFolder + \"/\", \"\")"
+                },
+                {
+                    "source": "error(\n          `[runRetagViolations] ${v.path} (${v.pageType}) failed:`,\n          e\n        );\n        results.push(`${v.path}: ${errMsg}`)",
+                    "target": "error(\n          `[runRetagViolations] ${v.path} (${v.pageType}) failed:`,\n          e\n        );\n        results.push(`${v.path}: ${errMsg}`)"
+                },
+                {
+                    "source": "error(\"Duplicate detection failed:\", e);\n        const errMsg = e instanceof Error ? e.message : String(e);\n        const errNotice = new import_obsidian14.Notice(t.lintDuplicateCheckFailedDetail.replace(\"{step}\", \"Layer 3 (LLM verify)\")",
+                    "target": "error(\"Duplicate detection failed:\", e);\n        const errMsg = e instanceof Error ? e.message : String(e);\n        const errNotice = new import_obsidian14.Notice(t.lintDuplicateCheckFailedDetail.replace(\"{step}\", \"Layer 3 (LLM verify)\")"
+                },
+                {
+                    "source": "error(\"Failed to resolve contradiction:\", c.path, error40);\n        await ctx.wikiEngine.updateContradictionStatus(c.path, \"pending_fix\")",
+                    "target": "error(\"Failed to resolve contradiction:\", c.path, error40);\n        await ctx.wikiEngine.updateContradictionStatus(c.path, \"pending_fix\")"
+                },
+                {
+                    "source": "error(`[Pollution Fix] Failed: ${pp.path}`, e);\n                }\n              }\n              if (pollutedFixed > 0) {\n                allResults.push(`## Fix Polluted Pages\nFixed ${pollutedFixed}/${pollutedPages.length} polluted pages`)",
+                    "target": "error(`[Pollution Fix] Failed: ${pp.path}`, e);\n                }\n              }\n              if (pollutedFixed > 0) {\n                allResults.push(`## Fix Polluted Pages\nFixed ${pollutedFixed}/${pollutedPages.length} polluted pages`)"
+                },
+                {
+                    "source": "error(\"Regenerate index failed:\", err);\n            new import_obsidian15.Notice(getText(this.settings.language, \"operationFailed\")",
+                    "target": "error(\"Regenerate index failed:\", err);\n            new import_obsidian15.Notice(getText(this.settings.language, \"operationFailed\")"
+                },
+                {
+                    "source": "setText(\"LLM wiki\")",
+                    "target": "setText(\"LLM wiki\")"
+                },
+                {
+                    "source": "name = \"AI_APICallError\"",
+                    "target": "name = \"AI_APICallError\""
+                },
+                {
+                    "source": "name = \"$ZodError\"",
+                    "target": "name = \"$ZodError\""
+                },
+                {
+                    "source": "name = \"ZodError\"",
+                    "target": "name = \"ZodError\""
+                },
+                {
+                    "source": "name = \"ParseError\"",
+                    "target": "name = \"ParseError\""
+                },
+                {
+                    "source": "name = \"AccessTokenMissingError\"",
+                    "target": "name = \"AccessTokenMissingError\""
+                },
+                {
+                    "source": "name = \"RefreshAccessTokenFailedError\"",
+                    "target": "name = \"RefreshAccessTokenFailedError\""
+                },
+                {
+                    "source": "name: \"InvalidDataContentError\"",
+                    "target": "name: \"InvalidDataContentError\""
+                },
+                {
+                    "source": "name: \"GatewayError\"",
+                    "target": "name: \"GatewayError\""
+                },
+                {
+                    "source": "name: \"GatewayAuthenticationError\"",
+                    "target": "name: \"GatewayAuthenticationError\""
+                },
+                {
+                    "source": "name:\n    \"operation.name\"",
+                    "target": "name:\n    \"operation.name\""
+                },
+                {
+                    "source": "name: \"ai.toolCall\"",
+                    "target": "name: \"ai.toolCall\""
+                },
+                {
+                    "source": "name: \"HMAC\"",
+                    "target": "name: \"HMAC\""
+                },
+                {
+                    "source": "name: \"ai.generateText\"",
+                    "target": "name: \"ai.generateText\""
+                },
+                {
+                    "source": "name: \"ai.generateText.doGenerate\"",
+                    "target": "name: \"ai.generateText.doGenerate\""
+                },
+                {
+                    "source": "text: \"\"",
+                    "target": "text: \"\""
+                },
+                {
+                    "source": "name: \"ai.embed\"",
+                    "target": "name: \"ai.embed\""
+                },
+                {
+                    "source": "name: \"ai.embed.doEmbed\"",
+                    "target": "name: \"ai.embed.doEmbed\""
+                },
+                {
+                    "source": "name: \"ai.embedMany\"",
+                    "target": "name: \"ai.embedMany\""
+                },
+                {
+                    "source": "name: \"ai.embedMany.doEmbed\"",
+                    "target": "name: \"ai.embedMany.doEmbed\""
+                },
+                {
+                    "source": "name: \"ai.generateObject\"",
+                    "target": "name: \"ai.generateObject\""
+                },
+                {
+                    "source": "name: \"ai.generateObject.doGenerate\"",
+                    "target": "name: \"ai.generateObject.doGenerate\""
+                },
+                {
+                    "source": "name: \"ai.rerank\"",
+                    "target": "name: \"ai.rerank\""
+                },
+                {
+                    "source": "name: \"ai.rerank.doRerank\"",
+                    "target": "name: \"ai.rerank.doRerank\""
+                },
+                {
+                    "source": "name: \"AI_UnsupportedModelVersionError\"",
+                    "target": "name: \"AI_UnsupportedModelVersionError\""
+                },
+                {
+                    "source": "name: \"text\"",
+                    "target": "name: \"text\""
+                },
+                {
+                    "source": "name: \"object\"",
+                    "target": "name: \"object\""
+                },
+                {
+                    "source": "name: \"array\"",
+                    "target": "name: \"array\""
+                },
+                {
+                    "source": "name: \"choice\"",
+                    "target": "name: \"choice\""
+                },
+                {
+                    "source": "name: \"json\"",
+                    "target": "name: \"json\""
+                },
+                {
+                    "source": "name: \"ai.streamText\"",
+                    "target": "name: \"ai.streamText\""
+                },
+                {
+                    "source": "name: \"ai.streamText.doStream\"",
+                    "target": "name: \"ai.streamText.doStream\""
+                },
+                {
+                    "source": "name: \"ai.streamObject\"",
+                    "target": "name: \"ai.streamObject\""
+                },
+                {
+                    "source": "name: \"ai.streamObject.doStream\"",
+                    "target": "name: \"ai.streamObject.doStream\""
+                },
+                {
+                    "source": "description: \"OpenAI\"",
+                    "target": "description: \"OpenAI\""
+                },
+                {
+                    "source": "name: \"code_execution\"",
+                    "target": "name: \"code_execution\""
+                },
+                {
+                    "source": "name: \"computer\"",
+                    "target": "name: \"computer\""
+                },
+                {
+                    "source": "name: \"str_replace_editor\"",
+                    "target": "name: \"str_replace_editor\""
+                },
+                {
+                    "source": "name: \"str_replace_based_edit_tool\"",
+                    "target": "name: \"str_replace_based_edit_tool\""
+                },
+                {
+                    "source": "name: \"bash\"",
+                    "target": "name: \"bash\""
+                },
+                {
+                    "source": "name: \"memory\"",
+                    "target": "name: \"memory\""
+                },
+                {
+                    "source": "name: \"web_fetch\"",
+                    "target": "name: \"web_fetch\""
+                },
+                {
+                    "source": "name: \"web_search\"",
+                    "target": "name: \"web_search\""
+                },
+                {
+                    "source": "name: \"tool_search_tool_regex\"",
+                    "target": "name: \"tool_search_tool_regex\""
+                },
+                {
+                    "source": "name: \"advisor\"",
+                    "target": "name: \"advisor\""
+                },
+                {
+                    "source": "description: \"Anthropic\"",
+                    "target": "description: \"Anthropic\""
+                },
+                {
+                    "source": "description: \"Respond with a JSON object.\"",
+                    "target": "description: \"Respond with a JSON object.\""
+                },
+                {
+                    "source": "name: \"OpenAI\"",
+                    "target": "name: \"OpenAI\""
+                },
+                {
+                    "source": "name: \"Anthropic (Claude)\"",
+                    "target": "name: \"Anthropic (Claude)\""
+                },
+                {
+                    "source": "name: \"Google Gemini\"",
+                    "target": "name: \"Google Gemini\""
+                },
+                {
+                    "source": "name: \"OpenRouter\"",
+                    "target": "name: \"OpenRouter\""
+                },
+                {
+                    "source": "name: \"DeepSeek\"",
+                    "target": "name: \"DeepSeek\""
+                },
+                {
+                    "source": "name: \"MiniMax\"",
+                    "target": "name: \"MiniMax\""
+                },
+                {
+                    "source": "name: \"Kimi (Moonshot)\"",
+                    "target": "name: \"Kimi (Moonshot)\""
+                },
+                {
+                    "source": "name: \"GLM (Zhipu AI)\"",
+                    "target": "name: \"GLM (Zhipu AI)\""
+                },
+                {
+                    "source": "name: \"Ollama (Local)\"",
+                    "target": "name: \"Ollama (Local)\""
+                },
+                {
+                    "source": "name: \"LM Studio (Local)\"",
+                    "target": "name: \"LM Studio (Local)\""
+                },
+                {
+                    "source": "name: \"Custom OpenAI-Compatible\"",
+                    "target": "name: \"Custom OpenAI-Compatible\""
+                },
+                {
+                    "source": "name: \"Custom Anthropic-Compatible\"",
+                    "target": "name: \"Custom Anthropic-Compatible\""
+                },
+                {
+                    "source": "name : `${currentPath}/${ancestor.name}`",
+                    "target": "name : `${currentPath}/${ancestor.name}`"
+                },
+                {
+                    "source": "text: `${statusEmoji} ${this.t(\"ingestReportTitle\")}`",
+                    "target": "text: `${statusEmoji} ${this.t(\"ingestReportTitle\")}`"
+                },
+                {
+                    "source": "text: `${this.t(\"ingestReportSkippedFiles\")}: ${skippedFiles}/${totalFilesInFolder || skippedFiles}`",
+                    "target": "text: `${this.t(\"ingestReportSkippedFiles\")}: ${skippedFiles}/${totalFilesInFolder || skippedFiles}`"
+                },
+                {
+                    "source": "text: `${icon}  ${insight.primary}`",
+                    "target": "text: `${icon}  ${insight.primary}`"
+                },
+                {
+                    "source": "text: `${t.historyIngestLatestTime}: ${entry.date} ${entry.time}`",
+                    "target": "text: `${t.historyIngestLatestTime}: ${entry.date} ${entry.time}`"
+                },
+                {
+                    "source": "text: `${t.historyIngestSource}: ${entry.sourceTitle}`",
+                    "target": "text: `${t.historyIngestSource}: ${entry.sourceTitle}`"
+                },
+                {
+                    "source": "text: `${sectionLabel} (${pages.length})`",
+                    "target": "text: `${sectionLabel} (${pages.length})`"
+                },
+                {
+                    "source": "text: `${t.historyEntrySectionDetails} (${entry.details.length})`",
+                    "target": "text: `${t.historyEntrySectionDetails} (${entry.details.length})`"
+                },
+                {
+                    "source": "description: \"Description\"",
+                    "target": "description: \"Description\""
+                },
+                {
+                    "source": "page: \"Source Page\"",
+                    "target": "page: \"Source Page\""
+                },
+                {
+                    "source": "description: \"Beschreibung\"",
+                    "target": "description: \"Beschreibung\""
+                },
+                {
+                    "source": "page: \"Quellseite\"",
+                    "target": "page: \"Quellseite\""
+                },
+                {
+                    "source": "page: \"Page source\"",
+                    "target": "page: \"Page source\""
+                },
+                {
+                    "source": "description: \"Descrizione\"",
+                    "target": "description: \"Descrizione\""
+                },
+                {
+                    "source": "page: \"Pagina sorgente\"",
+                    "target": "page: \"Pagina sorgente\""
+                },
+                {
+                    "source": "page: \"[[${pageRelPath}]]\"",
+                    "target": "page: \"[[${pageRelPath}]]\""
+                },
+                {
+                    "source": "text = \"This is the first extraction round. Extract the most important entities and concepts from the source.\"",
+                    "target": "text = \"This is the first extraction round. Extract the most important entities and concepts from the source.\""
+                },
+                {
+                    "source": "text = `This is round ${batchNum + 1} of extraction. Extract the next batch of most important entities and concepts from the remaining content. If no more items are worth extracting, return empty arrays [] for entities and concepts.${alreadyExtracted}`",
+                    "target": "text = `This is round ${batchNum + 1} of extraction. Extract the next batch of most important entities and concepts from the remaining content. If no more items are worth extracting, return empty arrays [] for entities and concepts.${alreadyExtracted}`"
+                },
+                {
+                    "source": "name:\", info.name);\n    console.debug(\"",
+                    "target": "name:\", info.name);\n    console.debug(\""
+                },
+                {
+                    "source": "text: \"Reason: \"",
+                    "target": "text: \"Reason: \""
+                },
+                {
+                    "source": "settings:\",\n        this.history.messages.length\n      );\n    }\n    contentEl.addClass(\"",
+                    "target": "settings:\",\n        this.history.messages.length\n      );\n    }\n    contentEl.addClass(\""
+                },
+                {
+                    "source": "text: `${texts.queryModalSendButton} (${modKey}+Enter)`",
+                    "target": "text: `${texts.queryModalSendButton} (${modKey}+Enter)`"
+                },
+                {
+                    "source": "name: `batch-${i + 1}`",
+                    "target": "name: `batch-${i + 1}`"
+                }
+            ]
+        }
+    }
+}

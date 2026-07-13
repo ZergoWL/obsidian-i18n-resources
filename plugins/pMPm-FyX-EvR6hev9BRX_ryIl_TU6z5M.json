@@ -1,0 +1,624 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "canvas-mindmap-keyboard",
+        "version": "1.0.0",
+        "title": "canvas-mindmap-keyboard  zh-cn",
+        "description": "canvas-mindmap-keyboard Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.1.7",
+        "author": "Zergo"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "outerHTML",
+                    "source": "<a href=\"https://ko-fi.com/conantong02\"><img src=\"https://storage.ko-fi.com/cdn/logomarkLogo.png\" width=60></a>",
+                    "target": "<a href=\"https://ko-fi.com/conantong02\"><img src=\"https://storage.ko-fi.com/cdn/logomarkLogo.png\" width=60></a>"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "automatic layout in the canvas",
+                    "target": "画布中自动布局"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "automatic layout in the tree",
+                    "target": "树形中自动布局"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "not automatic layout",
+                    "target": "非自动布局"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Canvas MindMap Plugin loaded",
+                    "target": "Canvas MindMap 插件已加载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "If you like this plugin, consider donating to support continued development:",
+                    "target": "如果您喜欢这个插件，请考虑捐赠以支持持续开发："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Only files with names containing this string will have the mind map feature enabled.",
+                    "target": "只有文件名包含此字符串的文件才会启用思维导图功能。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "The maximum number of lines for automatic height increase of nodes. If exceeded, the height will no longer increase automatically. Set to -1 for unlimited lines.",
+                    "target": "节点自动增加高度的最大行数。超过此值将不再自动增加高度。设置为 -1 表示不限制行数。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Donate",
+                    "target": "捐赠"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "filename include",
+                    "target": "文件名包含"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "width",
+                    "target": "宽度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "height",
+                    "target": "高度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "default automatic layout level",
+                    "target": "默认自动布局层级"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Which type of file uses canvas-level automatic layout?",
+                    "target": "哪种类型的文件使用画布级自动布局？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Which type of file uses tree-level automatic layout?",
+                    "target": "哪种类型的文件使用树形级自动布局？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Which type of file are not automatic layout?",
+                    "target": "哪种类型的文件不使用自动布局？"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "horizontal gap",
+                    "target": "水平间距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "vertical gap",
+                    "target": "垂直间距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "auto resize width switch",
+                    "target": "自动调整宽度开关"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "auto resize height switch",
+                    "target": "自动调整高度开关"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "max line",
+                    "target": "最大行数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "max Width",
+                    "target": "最大宽度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Content Horizontal Padding",
+                    "target": "内容水平内边距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "filename include",
+                    "target": "文件名包含"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "width",
+                    "target": "宽度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "height",
+                    "target": "高度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "The file name contains",
+                    "target": "文件名包含"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "horizontal gap",
+                    "target": "水平间距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "vertical gap",
+                    "target": "垂直间距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "max line",
+                    "target": "最大行数"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "max Width",
+                    "target": "最大宽度"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Content Horizontal Padding",
+                    "target": "内容水平内边距"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "modifiers, use + to separate, e.g. Ctrl+Shift",
+                    "target": "修饰键，使用 + 分隔，例如 Ctrl+Shift"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "key",
+                    "target": "键"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "create child node",
+                    "target": "创建子节点"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "create sibling node or root node",
+                    "target": "创建同级节点或根节点"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "delete node",
+                    "target": "删除节点"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "edit node or selection node",
+                    "target": "编辑节点或选中节点"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate up",
+                    "target": "向上导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate down",
+                    "target": "向下导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate left",
+                    "target": "向左导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate right",
+                    "target": "向右导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate up",
+                    "target": "自由向上导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate down",
+                    "target": "自由向下导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate left",
+                    "target": "自由向左导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate right",
+                    "target": "自由向右导航"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate up until end",
+                    "target": "向上导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate down until end",
+                    "target": "向下导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate left until end",
+                    "target": "向左导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "navigate right until end",
+                    "target": "向右导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate up until end",
+                    "target": "自由向上导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate down until end",
+                    "target": "自由向下导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate left until end",
+                    "target": "自由向左导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "free navigate right until end",
+                    "target": "自由向右导航至末尾"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "global relayout",
+                    "target": "全局重新布局"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "global resize",
+                    "target": "全局调整大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "global resize and relayout",
+                    "target": "全局调整大小并重新布局"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "relayout selected tree",
+                    "target": "重新布局所选树"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "condition",
+                    "target": "条件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "create node",
+                    "target": "创建节点"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "layout",
+                    "target": "布局"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "node auto resize",
+                    "target": "节点自动调整大小"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "hotkey",
+                    "target": "快捷键"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "After modification, it needs to be restarted before it will take effect.",
+                    "target": "修改后需要重启才能生效。"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setDesc(\"If you like this plugin, consider donating to support continued development:\")",
+                    "target": "setDesc(\"If you like this plugin, consider donating to support continued development:\")"
+                },
+                {
+                    "source": "setName(\"filename include\")",
+                    "target": "setName(\"filename include\")"
+                },
+                {
+                    "source": "setDesc(\"Only files with names containing this string will have the mind map feature enabled.\")",
+                    "target": "setDesc(\"Only files with names containing this string will have the mind map feature enabled.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"filename include\")",
+                    "target": "setPlaceholder(\"filename include\")"
+                },
+                {
+                    "source": "setName(\"default automatic layout level\")",
+                    "target": "setName(\"default automatic layout level\")"
+                },
+                {
+                    "source": "setName(\"Which type of file uses canvas-level automatic layout?\")",
+                    "target": "setName(\"Which type of file uses canvas-level automatic layout?\")"
+                },
+                {
+                    "source": "setPlaceholder(\"The file name contains\")",
+                    "target": "setPlaceholder(\"The file name contains\")"
+                },
+                {
+                    "source": "setName(\"Which type of file uses tree-level automatic layout?\")",
+                    "target": "setName(\"Which type of file uses tree-level automatic layout?\")"
+                },
+                {
+                    "source": "setName(\"Which type of file are not automatic layout?\")",
+                    "target": "setName(\"Which type of file are not automatic layout?\")"
+                },
+                {
+                    "source": "setName(\"horizontal gap\")",
+                    "target": "setName(\"horizontal gap\")"
+                },
+                {
+                    "source": "setPlaceholder(\"horizontal gap\")",
+                    "target": "setPlaceholder(\"horizontal gap\")"
+                },
+                {
+                    "source": "setName(\"vertical gap\")",
+                    "target": "setName(\"vertical gap\")"
+                },
+                {
+                    "source": "setPlaceholder(\"vertical gap\")",
+                    "target": "setPlaceholder(\"vertical gap\")"
+                },
+                {
+                    "source": "setName(\"auto resize width switch\")",
+                    "target": "setName(\"auto resize width switch\")"
+                },
+                {
+                    "source": "setName(\"auto resize height switch\")",
+                    "target": "setName(\"auto resize height switch\")"
+                },
+                {
+                    "source": "setName(\"max line\")",
+                    "target": "setName(\"max line\")"
+                },
+                {
+                    "source": "setDesc(\"The maximum number of lines for automatic height increase of nodes. If exceeded, the height will no longer increase automatically. Set to -1 for unlimited lines.\")",
+                    "target": "setDesc(\"The maximum number of lines for automatic height increase of nodes. If exceeded, the height will no longer increase automatically. Set to -1 for unlimited lines.\")"
+                },
+                {
+                    "source": "setPlaceholder(\"max line\")",
+                    "target": "setPlaceholder(\"max line\")"
+                },
+                {
+                    "source": "setName(\"max Width\")",
+                    "target": "setName(\"max Width\")"
+                },
+                {
+                    "source": "setPlaceholder(\"max Width\")",
+                    "target": "setPlaceholder(\"max Width\")"
+                },
+                {
+                    "source": "setName(\"Content Horizontal Padding\")",
+                    "target": "setName(\"Content Horizontal Padding\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Content Horizontal Padding\")",
+                    "target": "setPlaceholder(\"Content Horizontal Padding\")"
+                },
+                {
+                    "source": "setPlaceholder(\"modifiers, use + to separate, e.g. Ctrl+Shift\")",
+                    "target": "setPlaceholder(\"modifiers, use + to separate, e.g. Ctrl+Shift\")"
+                },
+                {
+                    "source": "log(\"Canvas MindMap Plugin loaded\")",
+                    "target": "log(\"Canvas MindMap Plugin loaded\")"
+                },
+                {
+                    "source": "text: \"condition\"",
+                    "target": "text: \"condition\""
+                },
+                {
+                    "source": "text: \"create node\"",
+                    "target": "text: \"create node\""
+                },
+                {
+                    "source": "text: \"layout\"",
+                    "target": "text: \"layout\""
+                },
+                {
+                    "source": "text: \"node auto resize\"",
+                    "target": "text: \"node auto resize\""
+                },
+                {
+                    "source": "text: \"hotkey\"",
+                    "target": "text: \"hotkey\""
+                },
+                {
+                    "source": "text: \"After modification, it needs to be restarted before it will take effect.\"",
+                    "target": "text: \"After modification, it needs to be restarted before it will take effect.\""
+                },
+                {
+                    "source": "name: \"create child node\"",
+                    "target": "name: \"create child node\""
+                },
+                {
+                    "source": "name: \"create sibling node or root node\"",
+                    "target": "name: \"create sibling node or root node\""
+                },
+                {
+                    "source": "name: \"delete node\"",
+                    "target": "name: \"delete node\""
+                },
+                {
+                    "source": "name: \"edit node or selection node\"",
+                    "target": "name: \"edit node or selection node\""
+                },
+                {
+                    "source": "name: \"navigate up\"",
+                    "target": "name: \"navigate up\""
+                },
+                {
+                    "source": "name: \"navigate down\"",
+                    "target": "name: \"navigate down\""
+                },
+                {
+                    "source": "name: \"navigate left\"",
+                    "target": "name: \"navigate left\""
+                },
+                {
+                    "source": "name: \"navigate right\"",
+                    "target": "name: \"navigate right\""
+                },
+                {
+                    "source": "name: \"free navigate up\"",
+                    "target": "name: \"free navigate up\""
+                },
+                {
+                    "source": "name: \"free navigate down\"",
+                    "target": "name: \"free navigate down\""
+                },
+                {
+                    "source": "name: \"free navigate left\"",
+                    "target": "name: \"free navigate left\""
+                },
+                {
+                    "source": "name: \"free navigate right\"",
+                    "target": "name: \"free navigate right\""
+                },
+                {
+                    "source": "name: \"navigate up until end\"",
+                    "target": "name: \"navigate up until end\""
+                },
+                {
+                    "source": "name: \"navigate down until end\"",
+                    "target": "name: \"navigate down until end\""
+                },
+                {
+                    "source": "name: \"navigate left until end\"",
+                    "target": "name: \"navigate left until end\""
+                },
+                {
+                    "source": "name: \"navigate right until end\"",
+                    "target": "name: \"navigate right until end\""
+                },
+                {
+                    "source": "name: \"free navigate up until end\"",
+                    "target": "name: \"free navigate up until end\""
+                },
+                {
+                    "source": "name: \"free navigate down until end\"",
+                    "target": "name: \"free navigate down until end\""
+                },
+                {
+                    "source": "name: \"free navigate left until end\"",
+                    "target": "name: \"free navigate left until end\""
+                },
+                {
+                    "source": "name: \"free navigate right until end\"",
+                    "target": "name: \"free navigate right until end\""
+                },
+                {
+                    "source": "name: \"global relayout\"",
+                    "target": "name: \"global relayout\""
+                },
+                {
+                    "source": "name: \"global resize\"",
+                    "target": "name: \"global resize\""
+                },
+                {
+                    "source": "name: \"global resize and relayout\"",
+                    "target": "name: \"global resize and relayout\""
+                },
+                {
+                    "source": "name: \"relayout selected tree\"",
+                    "target": "name: \"relayout selected tree\""
+                },
+                {
+                    "source": "text: \"\"",
+                    "target": "text: \"\""
+                }
+            ]
+        }
+    }
+}

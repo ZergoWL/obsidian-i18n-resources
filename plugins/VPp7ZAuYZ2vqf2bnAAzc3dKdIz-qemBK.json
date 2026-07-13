@@ -1,0 +1,846 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "pkmer",
+        "version": "1.0.0",
+        "title": "PKMer",
+        "description": "PKMer Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.0.8",
+        "author": "Zergo"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-rocket\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg>",
+                    "target": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-rocket\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg>"
+                },
+                {
+                    "type": "AssignmentExpression",
+                    "name": "innerHTML",
+                    "source": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-rocket\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg><svg xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-top: -12px;margin-left: -3px;\" width=\"1em\" height=\"1em\" viewBox=\"0 0 15 15\"><path fill=\"orange\" d=\"M9.875 7.5a2.375 2.375 0 1 1-4.75 0a2.375 2.375 0 0 1 4.75 0\"/></svg>",
+                    "target": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-rocket\"><path d=\"M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z\"/><path d=\"m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z\"/><path d=\"M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0\"/><path d=\"M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5\"/></svg><svg xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-top: -12px;margin-left: -3px;\" width=\"1em\" height=\"1em\" viewBox=\"0 0 15 15\"><path fill=\"orange\" d=\"M9.875 7.5a2.375 2.375 0 1 1-4.75 0a2.375 2.375 0 0 1 4.75 0\"/></svg>"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "hr",
+                    "target": "hr"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "img",
+                    "target": "img"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "div",
+                    "target": "div"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "span",
+                    "target": "span"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to start callback server:",
+                    "target": "Failed to start callback server:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to start OAuth login:",
+                    "target": "Failed to start OAuth login:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "OAuth callback processing failed:",
+                    "target": "OAuth callback processing failed:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to open PKMer login window:",
+                    "target": "Failed to open PKMer login window:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error processing Pkmer Token (likely malformed or corrupted):",
+                    "target": "Error processing Pkmer Token (likely malformed or corrupted):"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Fallback auth verification failed:",
+                    "target": "Fallback auth verification failed:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error fetching paginated plugin list:",
+                    "target": "Error fetching paginated plugin list:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error searching plugins with pagination:",
+                    "target": "Error searching plugins with pagination:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error fetching theme list:",
+                    "target": "Error fetching theme list:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error fetching paginated theme list:",
+                    "target": "Error fetching paginated theme list:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error searching themes with pagination:",
+                    "target": "Error searching themes with pagination:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error fetching plugin tags:",
+                    "target": "Error fetching plugin tags:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error fetching installed plugins:",
+                    "target": "Error fetching installed plugins:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error getting plugin status:",
+                    "target": "Error getting plugin status:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error loading themes:",
+                    "target": "Error loading themes:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "OAuth login failed:",
+                    "target": "OAuth login failed:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Head.vue: Error fetching download count:",
+                    "target": "Head.vue: Error fetching download count:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Head.vue: Error fetching PKMer version:",
+                    "target": "Head.vue: Error fetching PKMer version:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error during initial login check:",
+                    "target": "Error during initial login check:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error fetching outdated plugins:",
+                    "target": "Error fetching outdated plugins:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error searching plugins:",
+                    "target": "Error searching plugins:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error loading theme data:",
+                    "target": "Error loading theme data:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Plugin install failed:",
+                    "target": "Plugin install failed:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Theme install failed:",
+                    "target": "Theme install failed:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error occurred while processing leaf:",
+                    "target": "Error occurred while processing leaf:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "welcome Pkmer Market",
+                    "target": "welcome Pkmer Market"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "个人中心",
+                    "target": "个人中心"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "退出登录",
+                    "target": "退出登录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "等待浏览器授权...",
+                    "target": "等待浏览器授权..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "进入",
+                    "target": "进入"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "可前往个人中心查看详情，或直接退出当前登录。",
+                    "target": "可前往个人中心查看详情，或直接退出当前登录。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "通过浏览器完成 PKMer 授权，安全获取访问凭证，无需手动复制 Token。",
+                    "target": "通过浏览器完成 PKMer 授权，安全获取访问凭证，无需手动复制 Token。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "通过系统浏览器完成 PKMer 授权，完成后自动返回 Obsidian。",
+                    "target": "通过系统浏览器完成 PKMer 授权，完成后自动返回 Obsidian。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "兼容移动端或特殊场景无法授权等，可手动粘贴 PKMer 个人 Token。",
+                    "target": "兼容移动端或特殊场景无法授权等，可手动粘贴 PKMer 个人 Token。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "桌面端推荐使用 OAuth 授权登录，点击后会打开系统浏览器完成授权，无需手动复制 Token。",
+                    "target": "桌面端推荐使用 OAuth 授权登录，点击后会打开系统浏览器完成授权，无需手动复制 Token。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "移动端支持 OAuth 授权登录，点击后会打开系统浏览器，完成授权后会自动跳回 Obsidian。",
+                    "target": "移动端支持 OAuth 授权登录，点击后会打开系统浏览器，完成授权后会自动跳回 Obsidian。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "进入 PKMer 市场浏览插件和主题。",
+                    "target": "进入 PKMer 市场浏览插件和主题。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "当前账号",
+                    "target": "当前账号"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "账号操作",
+                    "target": "账号操作"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "OAuth 授权登录（推荐）",
+                    "target": "OAuth 授权登录（推荐）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "OAuth 授权登录",
+                    "target": "OAuth 授权登录"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "手动 Token [备用]",
+                    "target": "手动 Token [备用]"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "提示",
+                    "target": "提示"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "打开 PKMer Market",
+                    "target": "打开 PKMer Market"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "输入 PKMer Token",
+                    "target": "输入 PKMer Token"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "⚠️ PKMer Token 已过期，请重新登录以继续使用插件市场。",
+                    "target": "⚠️ PKMer Token 已过期，请重新登录以继续使用插件市场。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "鐧诲綍 PKMer",
+                    "target": "鐧诲綍 PKMer"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "PKMer market token probe failed:",
+                    "target": "PKMer market token probe failed:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Failed to fetch PKMer user info:",
+                    "target": "Failed to fetch PKMer user info:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "加载插件标签失败:",
+                    "target": "加载插件标签失败:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "加载状态栏信息失败:",
+                    "target": "加载状态栏信息失败:"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "检查登录状态失败:",
+                    "target": "检查登录状态失败:"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "回调参数缺失",
+                    "target": "回调参数缺失"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "PKMer Token 已过期，请重新登录后继续使用插件市场。",
+                    "target": "PKMer Token 已过期，请重新登录后继续使用插件市场。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "PKMer Token 已过期，请前往设置页面重新登录。",
+                    "target": "PKMer Token 已过期，请前往设置页面重新登录。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "移动端暂不支持内嵌网页登录，请使用 OAuth 授权登录或手动 Token 方式。",
+                    "target": "移动端暂不支持内嵌网页登录，请使用 OAuth 授权登录或手动 Token 方式。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "PKMer 登录成功。",
+                    "target": "PKMer 登录成功。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "已获取到 Token，但当前市场接口不接受该令牌，请重试登录。",
+                    "target": "已获取到 Token，但当前市场接口不接受该令牌，请重试登录。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "未获取到 PKMer Token，请确认已在弹出的窗口中完成登录。",
+                    "target": "未获取到 PKMer Token，请确认已在弹出的窗口中完成登录。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "已退出 PKMer 登录。",
+                    "target": "已退出 PKMer 登录。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "当前环境不支持内嵌登录窗口，请使用 OAuth 授权登录或手动 Token 方式。",
+                    "target": "当前环境不支持内嵌登录窗口，请使用 OAuth 授权登录或手动 Token 方式。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "请在浏览器中完成授权，完成后设置页面将自动更新。",
+                    "target": "请在浏览器中完成授权，完成后设置页面将自动更新。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "正在更新插件，请稍后...",
+                    "target": "正在更新插件，请稍后..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "正在下载插件，请稍后...",
+                    "target": "正在下载插件，请稍后..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "未登录 PKMer，某些功能不可用，请在设置中设置您的Token，以便完全访问。",
+                    "target": "未登录 PKMer，某些功能不可用，请在设置中设置您的Token，以便完全访问。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "正在下载主题，请稍后...",
+                    "target": "正在下载主题，请稍后..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "正在更新主题，请稍后...",
+                    "target": "正在更新主题，请稍后..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "请先完成 PKMer 授权后再安装。",
+                    "target": "请先完成 PKMer 授权后再安装。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "下载失败，请检查网络或授权状态。",
+                    "target": "下载失败，请检查网络或授权状态。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "正在安装主题，请稍后...",
+                    "target": "正在安装主题，请稍后..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "安装失败，请检查网络或授权状态。",
+                    "target": "安装失败，请检查网络或授权状态。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "pkmer-account-card setting-item-description",
+                    "target": "pkmer-account-card setting-item-description"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Suspense",
+                    "target": "Suspense"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "show",
+                    "target": "show"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Pkmer Market View",
+                    "target": "Open Pkmer Market View"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Search plugins...",
+                    "target": "Search plugins..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Search themes...",
+                    "target": "Search themes..."
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Obsidian PKMer Market",
+                    "target": "Obsidian PKMer Market"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": " | ",
+                    "target": " | "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "个人中心",
+                    "target": "个人中心"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "官方商城插件",
+                    "target": "官方商城插件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "社区专供插件",
+                    "target": "社区专供插件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "Readme文档",
+                    "target": "Readme文档"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "主题已安装，应用当前主题",
+                    "target": "主题已安装，应用当前主题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "按下载量",
+                    "target": "按下载量"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "按更新时间",
+                    "target": "按更新时间"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "按文件名排序",
+                    "target": "按文件名排序"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "按插件热度",
+                    "target": "按插件热度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "筛选已安装插件",
+                    "target": "筛选已安装插件"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "按主题热度",
+                    "target": "按主题热度"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "tooltip",
+                    "source": "筛选已安装主题",
+                    "target": "筛选已安装主题"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log(`OAuth callback server started on port ${te.callbackPort}`)",
+                    "target": "log(`OAuth callback server started on port ${te.callbackPort}`)"
+                },
+                {
+                    "source": "error(\"Failed to start OAuth login:\",e),new X.Notice(`启动登录失败: ${e.message||e}`),this.stopCallbackServer(),await this.clearPendingSession(),!1}}async handleCallback(e,n){const r=e.get(\"code\")",
+                    "target": "error(\"Failed to start OAuth login:\",e),new X.Notice(`启动登录失败: ${e.message||e}`),this.stopCallbackServer(),await this.clearPendingSession(),!1}}async handleCallback(e,n){const r=e.get(\"code\")"
+                },
+                {
+                    "source": "error(\"OAuth callback processing failed:\",l),new X.Notice(`登录处理失败: ${l.message||l}`)}finally{this.stopCallbackServer()}}async handleObsidianCallback(e){const n=e.get(\"code\")",
+                    "target": "error(\"OAuth callback processing failed:\",l),new X.Notice(`登录处理失败: ${l.message||l}`)}finally{this.stopCallbackServer()}}async handleObsidianCallback(e){const n=e.get(\"code\")"
+                },
+                {
+                    "source": "Notice(`授权失败: ${e.get(\"error_description\")||s}`)",
+                    "target": "Notice(`授权失败: ${e.get(\"error_description\")||s}`)"
+                },
+                {
+                    "source": "Notice(\"回调参数缺失\")",
+                    "target": "Notice(\"回调参数缺失\")"
+                },
+                {
+                    "source": "error(\"OAuth callback processing failed:\",i),new X.Notice(`登录处理失败: ${i.message||i}`),!1}}async processAuthorizationCode(e,n){const r=await this.ensurePendingSession();if(n!==r.state)throw new Error(\"安全验证失败，请重新登录\")",
+                    "target": "error(\"OAuth callback processing failed:\",i),new X.Notice(`登录处理失败: ${i.message||i}`),!1}}async processAuthorizationCode(e,n){const r=await this.ensurePendingSession();if(n!==r.state)throw new Error(\"安全验证失败，请重新登录\")"
+                },
+                {
+                    "source": "Notice(`登录成功！欢迎 ${i.name||i.email||\"PKMer 用户\"}`)",
+                    "target": "Notice(`登录成功！欢迎 ${i.name||i.email||\"PKMer 用户\"}`)"
+                },
+                {
+                    "source": "Notice(\"移动端暂不支持内嵌网页登录，请使用 OAuth 授权登录或手动 Token 方式。\",6e3),!1;const e=await this.openLoginWindowAndCaptureToken();return e?(await this.setLegacyToken(e),await this.verify(!0)?(await this.fetchUserInfo(),dispatchEvent(new Event(\"reload-statusbar\")",
+                    "target": "Notice(\"移动端暂不支持内嵌网页登录，请使用 OAuth 授权登录或手动 Token 方式。\",6e3),!1;const e=await this.openLoginWindowAndCaptureToken();return e?(await this.setLegacyToken(e),await this.verify(!0)?(await this.fetchUserInfo(),dispatchEvent(new Event(\"reload-statusbar\")"
+                },
+                {
+                    "source": "Notice(\"当前环境不支持内嵌登录窗口，请使用 OAuth 授权登录或手动 Token 方式。\",6e3),null;const r=e(\"electron\")",
+                    "target": "Notice(\"当前环境不支持内嵌登录窗口，请使用 OAuth 授权登录或手动 Token 方式。\",6e3),null;const r=e(\"electron\")"
+                },
+                {
+                    "source": "setTitle(\"鐧诲綍 PKMer\")",
+                    "target": "setTitle(\"鐧诲綍 PKMer\")"
+                },
+                {
+                    "source": "error(\"Failed to open PKMer login window:\",u),c(null)})}):(new X.Notice(\"当前环境不支持内嵌登录窗口，请使用 OAuth 授权登录或手动 Token 方式。\",6e3),null)}catch(e){return console.error(\"Failed to open PKMer login window:\",e),null}}getJwtExpiry(e){try{const n=e.split(\".\")",
+                    "target": "error(\"Failed to open PKMer login window:\",u),c(null)})}):(new X.Notice(\"当前环境不支持内嵌登录窗口，请使用 OAuth 授权登录或手动 Token 方式。\",6e3),null)}catch(e){return console.error(\"Failed to open PKMer login window:\",e),null}}getJwtExpiry(e){try{const n=e.split(\".\")"
+                },
+                {
+                    "source": "error(\"Error processing Pkmer Token (likely malformed or corrupted):\",n)}try{return await this.fetchWithToken(Wt+\"/getPluginDownloadCount\")",
+                    "target": "error(\"Error processing Pkmer Token (likely malformed or corrupted):\",n)}try{return await this.fetchWithToken(Wt+\"/getPluginDownloadCount\")"
+                },
+                {
+                    "source": "error(\"Fallback auth verification failed:\",n),!1}}async getPkmerDocs(){const e=await X.requestUrl(\"https://pkmer.cn/getPost.json\")",
+                    "target": "error(\"Fallback auth verification failed:\",n),!1}}async getPkmerDocs(){const e=await X.requestUrl(\"https://pkmer.cn/getPost.json\")"
+                },
+                {
+                    "source": "error(`Failed to fetch download URL for plugin ${e} version ${n}:`,r),r}}async getPluginVersions(e){try{const n=await this.fetchWithToken(`https://api.pkmer.cn/api/v1/download/${e}/versions`)",
+                    "target": "error(`Failed to fetch download URL for plugin ${e} version ${n}:`,r),r}}async getPluginVersions(e){try{const n=await this.fetchWithToken(`https://api.pkmer.cn/api/v1/download/${e}/versions`)"
+                },
+                {
+                    "source": "error(`Failed to fetch versions for plugin ${e}:`,n),n}}async getThemeDownloadUrlByVersion(e,n){try{return(await this.fetchWithToken(Wt+`/getThemeDownloadUrl/${e}/${n}?useVersion=true`)",
+                    "target": "error(`Failed to fetch versions for plugin ${e}:`,n),n}}async getThemeDownloadUrlByVersion(e,n){try{return(await this.fetchWithToken(Wt+`/getThemeDownloadUrl/${e}/${n}?useVersion=true`)"
+                },
+                {
+                    "source": "error(`Failed to fetch download URL for theme ${e} version ${n}:`,r),r}}async getThemeVersions(e){try{const r=await(await this.fetchWithToken(`https://api.pkmer.cn/api/v1/download/${e}/themeversions`)",
+                    "target": "error(`Failed to fetch download URL for theme ${e} version ${n}:`,r),r}}async getThemeVersions(e){try{const r=await(await this.fetchWithToken(`https://api.pkmer.cn/api/v1/download/${e}/themeversions`)"
+                },
+                {
+                    "source": "Notice(`获取${e}插件下载地址失败！`)",
+                    "target": "Notice(`获取${e}插件下载地址失败！`)"
+                },
+                {
+                    "source": "Notice(`插件${e}已经安装，无需重复安装！`)",
+                    "target": "Notice(`插件${e}已经安装，无需重复安装！`)"
+                },
+                {
+                    "source": "Notice(`插件${e}解压失败！请联系开发者处理！`,5e3),l.rmdir(i,!0),Error(`插件${e}解压失败！`)",
+                    "target": "Notice(`插件${e}解压失败！请联系开发者处理！`,5e3),l.rmdir(i,!0),Error(`插件${e}解压失败！`)"
+                },
+                {
+                    "source": "Notice(`插件${e}未安装！`)",
+                    "target": "Notice(`插件${e}未安装！`)"
+                },
+                {
+                    "source": "Notice(`插件${e}解压失败！得手动清除残留文件！`)",
+                    "target": "Notice(`插件${e}解压失败！得手动清除残留文件！`)"
+                },
+                {
+                    "source": "Notice(`插件${e}(${n})更新成功！\n 请在插件列表中重新启用`)",
+                    "target": "Notice(`插件${e}(${n})更新成功！\n 请在插件列表中重新启用`)"
+                },
+                {
+                    "source": "Notice(`插件${e}更新失败！${s}`)",
+                    "target": "Notice(`插件${e}更新失败！${s}`)"
+                },
+                {
+                    "source": "Notice(`获取${e}主题下载地址失败！`)",
+                    "target": "Notice(`获取${e}主题下载地址失败！`)"
+                },
+                {
+                    "source": "Notice(`主题${e}已经安装，无需重复安装！`)",
+                    "target": "Notice(`主题${e}已经安装，无需重复安装！`)"
+                },
+                {
+                    "source": "Notice(`主题${e}解压失败！得手动清除残留文件！`,5e3),l.rmdir(i,!0),Error(`主题${e}解压失败！`)",
+                    "target": "Notice(`主题${e}解压失败！得手动清除残留文件！`,5e3),l.rmdir(i,!0),Error(`主题${e}解压失败！`)"
+                },
+                {
+                    "source": "Notice(`主题${e}未安装！`)",
+                    "target": "Notice(`主题${e}未安装！`)"
+                },
+                {
+                    "source": "Notice(`主题${e}解压失败！得手动清除残留文件！`)",
+                    "target": "Notice(`主题${e}解压失败！得手动清除残留文件！`)"
+                },
+                {
+                    "source": "Notice(`主题${e}(${n})更新成功！\n 新主题已生效`)",
+                    "target": "Notice(`主题${e}(${n})更新成功！\n 新主题已生效`)"
+                },
+                {
+                    "source": "Notice(`主题${e}更新失败！${s}`)",
+                    "target": "Notice(`主题${e}更新失败！${s}`)"
+                },
+                {
+                    "source": "setText(\"⚠️ PKMer Token 已过期，请重新登录以继续使用插件市场。\")",
+                    "target": "setText(\"⚠️ PKMer Token 已过期，请重新登录以继续使用插件市场。\")"
+                },
+                {
+                    "source": "setName(\"当前账号\")",
+                    "target": "setName(\"当前账号\")"
+                },
+                {
+                    "source": "setName(\"账号操作\")",
+                    "target": "setName(\"账号操作\")"
+                },
+                {
+                    "source": "setDesc(\"可前往个人中心查看详情，或直接退出当前登录。\")",
+                    "target": "setDesc(\"可前往个人中心查看详情，或直接退出当前登录。\")"
+                },
+                {
+                    "source": "setButtonText(\"个人中心\")",
+                    "target": "setButtonText(\"个人中心\")"
+                },
+                {
+                    "source": "setButtonText(\"退出登录\")",
+                    "target": "setButtonText(\"退出登录\")"
+                },
+                {
+                    "source": "setName(\"OAuth 授权登录（推荐）\")",
+                    "target": "setName(\"OAuth 授权登录（推荐）\")"
+                },
+                {
+                    "source": "setDesc(\"通过浏览器完成 PKMer 授权，安全获取访问凭证，无需手动复制 Token。\")",
+                    "target": "setDesc(\"通过浏览器完成 PKMer 授权，安全获取访问凭证，无需手动复制 Token。\")"
+                },
+                {
+                    "source": "setButtonText(\"等待浏览器授权...\")",
+                    "target": "setButtonText(\"等待浏览器授权...\")"
+                },
+                {
+                    "source": "Notice(\"请在浏览器中完成授权，完成后设置页面将自动更新。\",6e3)}catch(c){console.error(\"OAuth login failed:\",c)}finally{a.setDisabled(!1),a.setButtonText(s?\"重新授权登录\":\"立即授权登录\")",
+                    "target": "Notice(\"请在浏览器中完成授权，完成后设置页面将自动更新。\",6e3)}catch(c){console.error(\"OAuth login failed:\",c)}finally{a.setDisabled(!1),a.setButtonText(s?\"重新授权登录\":\"立即授权登录\")"
+                },
+                {
+                    "source": "setName(\"OAuth 授权登录\")",
+                    "target": "setName(\"OAuth 授权登录\")"
+                },
+                {
+                    "source": "setDesc(\"通过系统浏览器完成 PKMer 授权，完成后自动返回 Obsidian。\")",
+                    "target": "setDesc(\"通过系统浏览器完成 PKMer 授权，完成后自动返回 Obsidian。\")"
+                },
+                {
+                    "source": "error(\"OAuth login failed:\",c)}finally{a.setDisabled(!1),a.setButtonText(s?\"重新授权登录\":\"立即授权登录\")",
+                    "target": "error(\"OAuth login failed:\",c)}finally{a.setDisabled(!1),a.setButtonText(s?\"重新授权登录\":\"立即授权登录\")"
+                },
+                {
+                    "source": "setName(\"手动 Token [备用]\")",
+                    "target": "setName(\"手动 Token [备用]\")"
+                },
+                {
+                    "source": "setDesc(\"兼容移动端或特殊场景无法授权等，可手动粘贴 PKMer 个人 Token。\")",
+                    "target": "setDesc(\"兼容移动端或特殊场景无法授权等，可手动粘贴 PKMer 个人 Token。\")"
+                },
+                {
+                    "source": "setPlaceholder(\"输入 PKMer Token\")",
+                    "target": "setPlaceholder(\"输入 PKMer Token\")"
+                },
+                {
+                    "source": "setName(\"提示\")",
+                    "target": "setName(\"提示\")"
+                },
+                {
+                    "source": "setDesc(\"桌面端推荐使用 OAuth 授权登录，点击后会打开系统浏览器完成授权，无需手动复制 Token。\")",
+                    "target": "setDesc(\"桌面端推荐使用 OAuth 授权登录，点击后会打开系统浏览器完成授权，无需手动复制 Token。\")"
+                },
+                {
+                    "source": "setDesc(\"移动端支持 OAuth 授权登录，点击后会打开系统浏览器，完成授权后会自动跳回 Obsidian。\")",
+                    "target": "setDesc(\"移动端支持 OAuth 授权登录，点击后会打开系统浏览器，完成授权后会自动跳回 Obsidian。\")"
+                },
+                {
+                    "source": "setName(\"打开 PKMer Market\")",
+                    "target": "setName(\"打开 PKMer Market\")"
+                },
+                {
+                    "source": "setDesc(\"进入 PKMer 市场浏览插件和主题。\")",
+                    "target": "setDesc(\"进入 PKMer 市场浏览插件和主题。\")"
+                },
+                {
+                    "source": "setButtonText(\"进入\")",
+                    "target": "setButtonText(\"进入\")"
+                },
+                {
+                    "source": "Notice(\"正在更新插件，请稍后...\",3e3),!await l.updatePluginToExistPluginFolder(\"obsidian-pkmer\",s.value))||e.app.workspace.activeLeaf.rebuildView()},f=async()=>{e.isLogin&&(localStorage.removeItem(\"pluginList\")",
+                    "target": "Notice(\"正在更新插件，请稍后...\",3e3),!await l.updatePluginToExistPluginFolder(\"obsidian-pkmer\",s.value))||e.app.workspace.activeLeaf.rebuildView()},f=async()=>{e.isLogin&&(localStorage.removeItem(\"pluginList\")"
+                },
+                {
+                    "source": "error(\"Error searching plugins:\",K)}finally{P.value=!1}},N=ct(\"plugin\")",
+                    "target": "error(\"Error searching plugins:\",K)}finally{P.value=!1}},N=ct(\"plugin\")"
+                },
+                {
+                    "source": "error(\"Error loading theme data:\",K)}finally{P.value=!1}}}const lt=new zs(e.app,e.settings,e.authService),ot=ct(\"\")",
+                    "target": "error(\"Error loading theme data:\",K)}finally{P.value=!1}}}const lt=new zs(e.app,e.settings,e.authService),ot=ct(\"\")"
+                },
+                {
+                    "source": "log(\"welcome Pkmer Market\")",
+                    "target": "log(\"welcome Pkmer Market\")"
+                },
+                {
+                    "source": "Notice(\"请先完成 PKMer 授权后再安装。\",5e3),this.app.setting.open(),this.app.setting.openTabById(\"pkmer\")",
+                    "target": "Notice(\"请先完成 PKMer 授权后再安装。\",5e3),this.app.setting.open(),this.app.setting.openTabById(\"pkmer\")"
+                },
+                {
+                    "source": "text:\"Obsidian PKMer Market\"",
+                    "target": "text:\"Obsidian PKMer Market\""
+                },
+                {
+                    "source": "text:\" | \"",
+                    "target": "text:\" | \""
+                },
+                {
+                    "source": "text:\"个人中心\"",
+                    "target": "text:\"个人中心\""
+                },
+                {
+                    "source": "name:\"Open Pkmer Market View\"",
+                    "target": "name:\"Open Pkmer Market View\""
+                }
+            ]
+        }
+    }
+}
