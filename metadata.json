@@ -9,8 +9,8 @@
         "title": "BRAT",
         "description": "BRAT Localization & Tweaks",
         "hash": "50c9ab9150c9ab9150c9ab9150c9ab91",
-        "created_at": "2026-06-01T03:18:01.497Z",
-        "updated_at": "2026-06-01T03:18:01.497Z"
+        "created_at": "2026-07-13T05:28:18.621Z",
+        "updated_at": "2026-07-13T05:28:18.621Z"
     },
     {
         "id": "7KY5UQh7TPtH8n3JaXe08-3y_6OEFkzP",
@@ -22,8 +22,8 @@
         "title": "Dataview",
         "description": "Dataview Localization & Tweaks",
         "hash": "78ccfd8978ccfd8978ccfd8978ccfd89",
-        "created_at": "2026-06-01T03:28:24.329Z",
-        "updated_at": "2026-06-01T03:28:24.329Z"
+        "created_at": "2026-07-13T05:28:18.634Z",
+        "updated_at": "2026-07-13T05:28:18.634Z"
     },
     {
         "id": "w7HvzG6dC0vBiC6A8EiOtvaOgdvwSX3k",
@@ -35,47 +35,8 @@
         "title": "Editing Toolbar",
         "description": "Editing Toolbar Localization & Tweaks",
         "hash": "0b0605a30b0605a30b0605a30b0605a3",
-        "created_at": "2026-06-01T03:28:24.328Z",
-        "updated_at": "2026-06-01T03:28:24.328Z"
-    },
-    {
-        "id": "QdTvfq6eSHd3cZl7_frh5VxPkeDXT8-B",
-        "plugin": "calendar",
-        "type": "plugin",
-        "language": "zh-cn",
-        "version": "1.0.0",
-        "supported_versions": "1.5.10",
-        "title": "Calendar",
-        "description": "Calendar Localization & Tweaks",
-        "hash": "662d08a3662d08a3662d08a3662d08a3",
-        "created_at": "2026-06-01T03:28:24.332Z",
-        "updated_at": "2026-06-01T03:28:24.332Z"
-    },
-    {
-        "id": "2cAvWoepEoiOdXzCHkMRGM2ETay83m_W",
-        "plugin": "obsidian-excalidraw-plugin",
-        "language": "zh-cn",
-        "version": "2.23.3",
-        "supported_versions": "2.23.3",
-        "title": "[feichuan][zh-cn] Excalidraw",
-        "description": "Excalidraw Localization & Tweaks",
-        "hash": "61781699617816996178169961781699",
-        "created_at": "2026-06-04T03:15:11.895Z",
-        "updated_at": "2026-06-04T03:15:11.895Z",
-        "type": "plugin"
-    },
-    {
-        "id": "kaS82N-uMzuLw6UMuxEjTy4opkhCV5TN",
-        "plugin": "obsidian-icon-folder",
-        "language": "zh-cn",
-        "version": "2.14.7",
-        "supported_versions": "2.14.7",
-        "title": "Iconize",
-        "description": "在黑曜石中为任何你想要的东西添加图标，包括文件、文件夹和文本。",
-        "hash": "5873f34f5873f34f5873f34f5873f34f",
-        "created_at": "2026-06-04T03:16:52.444Z",
-        "updated_at": "2026-06-04T03:16:52.444Z",
-        "type": "plugin"
+        "created_at": "2026-07-13T05:28:18.624Z",
+        "updated_at": "2026-07-13T05:28:18.624Z"
     },
     {
         "id": "VcRXOBTOZKiImb43C5TrHBPyW47OPyUi",
@@ -87,8 +48,8 @@
         "title": "Tag Wrangler",
         "description": "Tag Wrangler Localization & Tweaks",
         "hash": "727459f2727459f2727459f2727459f2",
-        "created_at": "2026-06-04T05:33:33.056Z",
-        "updated_at": "2026-06-04T05:33:33.056Z"
+        "created_at": "2026-07-13T05:28:18.626Z",
+        "updated_at": "2026-07-13T05:28:18.626Z"
     },
     {
         "id": "MVKOs7sy06ukIpU2NEELErzPtjlJqrry",
@@ -100,8 +61,8 @@
         "title": "[feichuan][zh-cn] Dataview",
         "description": "Dataview Localization & Tweaks",
         "hash": "40e2def640e2def640e2def640e2def6",
-        "created_at": "2026-06-04T05:33:33.054Z",
-        "updated_at": "2026-06-04T05:33:33.054Z"
+        "created_at": "2026-07-13T05:28:18.622Z",
+        "updated_at": "2026-07-13T05:28:18.622Z"
     },
     {
         "id": "b0T8GGfykphREpJcBk4XYI1BHiit7tiN",
@@ -113,8 +74,8 @@
         "title": "Editing Toolbar zh-cn",
         "description": "Editing Toolbar Localization & Tweaks",
         "hash": "11cd478e11cd478e11cd478e11cd478e",
-        "created_at": "2026-06-04T05:33:33.055Z",
-        "updated_at": "2026-07-03T09:29:47.566Z"
+        "created_at": "2026-07-13T05:28:18.629Z",
+        "updated_at": "2026-07-13T05:28:18.629Z"
     },
     {
         "id": "4KPM3Giu8iZtkQAbcEVMavtemUxh0r9I",
@@ -126,21 +87,34 @@
         "title": "[feichuan][zh-cn] BRAT",
         "description": "BRAT Localization & Tweaks",
         "hash": "025ba662025ba662025ba662025ba662",
-        "created_at": "2026-06-04T05:33:33.054Z",
-        "updated_at": "2026-06-04T05:33:33.054Z"
+        "created_at": "2026-07-13T05:28:18.626Z",
+        "updated_at": "2026-07-13T05:28:18.626Z"
     },
     {
-        "id": "twO5mk9lAO82RW-CvuL4La3ymQXeHPiN",
-        "plugin": "obsidian-memos",
+        "id": "2cAvWoepEoiOdXzCHkMRGM2ETay83m_W",
+        "plugin": "obsidian-excalidraw-plugin",
         "type": "plugin",
         "language": "zh-cn",
         "version": "1.0.0",
-        "supported_versions": "3.0.13",
-        "title": "Thino-zh-cn",
-        "description": "Thino",
-        "hash": "4b430e504b430e504b430e504b430e50",
-        "created_at": "2026-06-04T05:33:33.058Z",
-        "updated_at": "2026-06-04T05:33:33.058Z"
+        "supported_versions": "2.23.3",
+        "title": "[feichuan][zh-cn] Excalidraw",
+        "description": "Excalidraw Localization & Tweaks",
+        "hash": "61781699617816996178169961781699",
+        "created_at": "2026-07-13T05:28:18.655Z",
+        "updated_at": "2026-07-13T05:28:18.655Z"
+    },
+    {
+        "id": "kaS82N-uMzuLw6UMuxEjTy4opkhCV5TN",
+        "plugin": "obsidian-icon-folder",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.14.7",
+        "title": "Iconize",
+        "description": "在黑曜石中为任何你想要的东西添加图标，包括文件、文件夹和文本。",
+        "hash": "5873f34f5873f34f5873f34f5873f34f",
+        "created_at": "2026-07-13T05:28:18.641Z",
+        "updated_at": "2026-07-13T05:28:18.641Z"
     },
     {
         "id": "E6kR1mk8PYofgwT-Y-MiJddYCYgoc81I",
@@ -152,21 +126,8 @@
         "title": "Calendar Heatmap-zh-cn",
         "description": "Calendar Heatmap Localization & Tweaks",
         "hash": "5c4e35c95c4e35c95c4e35c95c4e35c9",
-        "created_at": "2026-06-04T05:33:33.056Z",
-        "updated_at": "2026-06-04T05:33:33.056Z"
-    },
-    {
-        "id": "ADzs0fzfTzDxtwk-Yl19CjnX7OZ1nHS8",
-        "plugin": "agentfiles",
-        "type": "plugin",
-        "language": "zh-cn",
-        "version": "1.0.0",
-        "supported_versions": "0.7.4",
-        "title": "Agentfiles-zh-cn",
-        "description": "Agentfiles Localization & Tweaks",
-        "hash": "2b196fda2b196fda2b196fda2b196fda",
-        "created_at": "2026-06-04T05:33:33.061Z",
-        "updated_at": "2026-06-04T05:33:33.061Z"
+        "created_at": "2026-07-13T05:28:18.635Z",
+        "updated_at": "2026-07-13T05:28:18.635Z"
     },
     {
         "id": "cXUmu4gnTiNe0LvgYYbwhJSHvwECcc1N",
@@ -178,8 +139,8 @@
         "title": "Easy Typing",
         "description": "Easy Typing Localization & Tweaks",
         "hash": "3f02802b3f02802b3f02802b3f02802b",
-        "created_at": "2026-06-04T05:33:33.060Z",
-        "updated_at": "2026-06-04T05:33:33.060Z"
+        "created_at": "2026-07-13T05:28:18.639Z",
+        "updated_at": "2026-07-13T05:28:18.639Z"
     },
     {
         "id": "1xU8cUQfdqR9D5XVH1PhGAhB28hCi_QB",
@@ -191,8 +152,8 @@
         "title": "[zh-cn] BRAT",
         "description": "BRAT Localization & Tweaks",
         "hash": "2532d1fb2532d1fb2532d1fb2532d1fb",
-        "created_at": "2026-06-04T05:37:04.941Z",
-        "updated_at": "2026-06-04T05:37:04.941Z"
+        "created_at": "2026-07-13T05:28:18.635Z",
+        "updated_at": "2026-07-13T05:28:18.635Z"
     },
     {
         "id": "CXgRmgaK7CsDdCa7byISwLCwppDp_c-b",
@@ -204,8 +165,8 @@
         "title": "Templater",
         "description": "Templater Localization & Tweaks",
         "hash": "5f10c48d5f10c48d5f10c48d5f10c48d",
-        "created_at": "2026-06-04T05:37:04.943Z",
-        "updated_at": "2026-06-04T05:37:04.943Z"
+        "created_at": "2026-07-13T05:28:18.636Z",
+        "updated_at": "2026-07-13T05:28:18.636Z"
     },
     {
         "id": "Crmbg72U_eHjOjL-AgmTj98RxnFi8vXJ",
@@ -217,8 +178,8 @@
         "title": "Border",
         "description": "Border主题中文调整",
         "hash": "10510ffb10510ffb10510ffb10510ffb",
-        "created_at": "2026-06-04T05:37:04.943Z",
-        "updated_at": "2026-06-04T05:37:04.943Z"
+        "created_at": "2026-07-13T05:28:18.641Z",
+        "updated_at": "2026-07-13T05:28:18.641Z"
     },
     {
         "id": "U8vWTCeDMZkASJEsc1r5_Z-p5WCO86IT",
@@ -230,34 +191,21 @@
         "title": "Emoji Toolbar zh-cn",
         "description": "Emoji Toolbar Localization & Tweaks",
         "hash": "4bda412f4bda412f4bda412f4bda412f",
-        "created_at": "2026-06-04T06:27:14.131Z",
-        "updated_at": "2026-06-15T09:13:41.549Z"
+        "created_at": "2026-07-13T05:28:18.679Z",
+        "updated_at": "2026-07-13T05:28:18.679Z"
     },
     {
-        "id": "Y3tmH_52a6_JWQsRpWwOmezcEyyHYghc",
-        "plugin": "obsidian-html-plugin",
+        "id": "QdTvfq6eSHd3cZl7_frh5VxPkeDXT8-B",
+        "plugin": "calendar",
+        "type": "plugin",
         "language": "zh-cn",
-        "version": "1.0.14",
-        "supported_versions": "1.0.14",
-        "title": "HTML Reader-zh-cn",
-        "description": "HTML Reader Localization & Tweaks",
-        "hash": "41283d4d41283d4d41283d4d41283d4d",
-        "created_at": "2026-06-10T06:34:35.773Z",
-        "updated_at": "2026-06-10T06:34:35.773Z",
-        "type": "plugin"
-    },
-    {
-        "id": "Zu-ORGeaFrujIu9ZdawM4z96_qgogR5N",
-        "plugin": "obsidian-git",
-        "language": "zh-cn",
-        "version": "2.38.3",
-        "supported_versions": "2.38.3",
-        "title": "Git zh-cn",
-        "description": "Git Localization & Tweaks",
-        "hash": "014d26bc014d26bc014d26bc014d26bc",
-        "created_at": "2026-06-10T06:59:53.218Z",
-        "updated_at": "2026-06-10T06:59:53.218Z",
-        "type": "plugin"
+        "version": "1.0.0",
+        "supported_versions": "1.5.10",
+        "title": "Calendar",
+        "description": "Calendar Localization & Tweaks",
+        "hash": "662d08a3662d08a3662d08a3662d08a3",
+        "created_at": "2026-07-13T05:28:18.642Z",
+        "updated_at": "2026-07-13T05:28:18.642Z"
     },
     {
         "id": "bGvbzaPSd2CZLhgs1t3tuHPF7xVx1lSV",
@@ -269,8 +217,34 @@
         "title": "[zh-tw] Media Extended",
         "description": "Media Extended 繁體中文化與微調",
         "hash": "367f967c367f967c367f967c367f967c",
-        "created_at": "2026-06-15T09:13:41.547Z",
-        "updated_at": "2026-06-15T09:13:41.547Z"
+        "created_at": "2026-07-13T05:28:18.645Z",
+        "updated_at": "2026-07-13T05:28:18.645Z"
+    },
+    {
+        "id": "Y3tmH_52a6_JWQsRpWwOmezcEyyHYghc",
+        "plugin": "obsidian-html-plugin",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.0.14",
+        "title": "HTML Reader-zh-cn",
+        "description": "HTML Reader Localization & Tweaks",
+        "hash": "41283d4d41283d4d41283d4d41283d4d",
+        "created_at": "2026-07-13T05:28:18.642Z",
+        "updated_at": "2026-07-13T05:28:18.642Z"
+    },
+    {
+        "id": "Zu-ORGeaFrujIu9ZdawM4z96_qgogR5N",
+        "plugin": "obsidian-git",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "2.38.3",
+        "title": "Git zh-cn",
+        "description": "Git Localization & Tweaks",
+        "hash": "014d26bc014d26bc014d26bc014d26bc",
+        "created_at": "2026-07-13T05:28:18.650Z",
+        "updated_at": "2026-07-13T05:28:18.650Z"
     },
     {
         "id": "DrBF3FIOyixVAs2nTUsNaesGLm7DrddM",
@@ -282,8 +256,8 @@
         "title": "Thino-zh-cn",
         "description": "Thino Localization & Tweaks",
         "hash": "674e5aa2674e5aa2674e5aa2674e5aa2",
-        "created_at": "2026-06-15T09:13:41.546Z",
-        "updated_at": "2026-06-15T09:13:41.546Z"
+        "created_at": "2026-07-13T05:28:18.662Z",
+        "updated_at": "2026-07-13T05:28:18.662Z"
     },
     {
         "id": "pXUtJ580gpf0gdciNUME-mwn4fEsUogm",
@@ -292,11 +266,11 @@
         "language": "zh-cn",
         "version": "1.0.0",
         "supported_versions": "1.29.3",
-        "title": "Omnisearch",
+        "title": "Omnisearch zh-cn",
         "description": "Omnisearch Localization & Tweaks",
-        "hash": "799117c4799117c4799117c4799117c4",
-        "created_at": "2026-06-15T09:13:41.545Z",
-        "updated_at": "2026-06-15T09:13:41.545Z"
+        "hash": "3328614e3328614e3328614e3328614e",
+        "created_at": "2026-07-13T05:28:18.647Z",
+        "updated_at": "2026-07-13T05:28:18.647Z"
     },
     {
         "id": "7bXHHtXI9784LfVHVP_8qmj--KpkkBF-",
@@ -308,8 +282,8 @@
         "title": "Enhancing Mindmap-zh-cn",
         "description": "Enhancing Mindmap Localization & Tweaks",
         "hash": "3ca5a5bf3ca5a5bf3ca5a5bf3ca5a5bf",
-        "created_at": "2026-06-15T09:13:41.545Z",
-        "updated_at": "2026-06-15T09:13:41.545Z"
+        "created_at": "2026-07-13T05:28:18.648Z",
+        "updated_at": "2026-07-13T05:28:18.648Z"
     },
     {
         "id": "W4hRRKQ18KxdsE69WGbWp872NqHmuctC",
@@ -321,8 +295,8 @@
         "title": "Lovely-Mindmap zh-cn",
         "description": "Lovely-Mindmap Localization & Tweaks",
         "hash": "71a4e9a271a4e9a271a4e9a271a4e9a2",
-        "created_at": "2026-06-15T09:13:41.546Z",
-        "updated_at": "2026-06-15T09:13:41.546Z"
+        "created_at": "2026-07-13T05:28:18.652Z",
+        "updated_at": "2026-07-13T05:28:18.652Z"
     },
     {
         "id": "SW84ogtAZKaHbXulrbJAPcz3GOeZqNB-",
@@ -334,8 +308,8 @@
         "title": "Tag Wrangler zh-cn",
         "description": "Tag Wrangler Localization & Tweaks",
         "hash": "3200ca2f3200ca2f3200ca2f3200ca2f",
-        "created_at": "2026-06-15T09:13:41.545Z",
-        "updated_at": "2026-06-15T09:13:41.545Z"
+        "created_at": "2026-07-13T05:28:18.651Z",
+        "updated_at": "2026-07-13T05:28:18.651Z"
     },
     {
         "id": "ETBMHAG1EwXy7G8mRCn0xiGarn-AY3ZW",
@@ -347,8 +321,8 @@
         "title": "Mind Map zh-cn",
         "description": "Mind Map Localization & Tweaks",
         "hash": "055ecfa5055ecfa5055ecfa5055ecfa5",
-        "created_at": "2026-06-15T09:13:41.547Z",
-        "updated_at": "2026-06-15T09:13:41.547Z"
+        "created_at": "2026-07-13T05:28:18.658Z",
+        "updated_at": "2026-07-13T05:28:18.658Z"
     },
     {
         "id": "E6oHsrFNuGlTr4349D6lijKBPTZE1r_u",
@@ -360,7 +334,85 @@
         "title": "Advanced Canvas",
         "description": "Advanced Canvas Localization & Tweaks",
         "hash": "634db5a9634db5a9634db5a9634db5a9",
-        "created_at": "2026-06-15T09:13:41.551Z",
-        "updated_at": "2026-06-15T09:13:41.551Z"
+        "created_at": "2026-07-13T05:28:18.664Z",
+        "updated_at": "2026-07-13T05:28:18.664Z"
+    },
+    {
+        "id": "pMPm-FyX-EvR6hev9BRX_ryIl_TU6z5M",
+        "plugin": "canvas-mindmap-keyboard",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.1.7",
+        "title": "canvas-mindmap-keyboard  zh-cn",
+        "description": "canvas-mindmap-keyboard Localization & Tweaks",
+        "hash": "3b3dee8d3b3dee8d3b3dee8d3b3dee8d",
+        "created_at": "2026-07-13T05:28:18.668Z",
+        "updated_at": "2026-07-13T05:28:18.668Z"
+    },
+    {
+        "id": "ROIsRmWElr5SgdP9dGNI11FJlIJWnC84",
+        "plugin": "chinese-punctuation-converter",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.0.3",
+        "title": "Chinese Punctuation Converter",
+        "description": "Chinese Punctuation Converter Localization & Tweaks",
+        "hash": "3b2d48a83b2d48a83b2d48a83b2d48a8",
+        "created_at": "2026-07-13T05:28:18.666Z",
+        "updated_at": "2026-07-13T05:28:18.666Z"
+    },
+    {
+        "id": "0nJQV00XAvZvpew6SMJUBxfNWIocsojf",
+        "plugin": "agentfiles",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.7.4",
+        "title": "Agentfiles zh-cn",
+        "description": "Agentfiles Localization & Tweaks",
+        "hash": "5f85724d5f85724d5f85724d5f85724d",
+        "created_at": "2026-07-13T05:28:18.667Z",
+        "updated_at": "2026-07-13T05:28:18.667Z"
+    },
+    {
+        "id": "D37VbvRHgwNDbSs64EuDUlNSt6dDIukJ",
+        "plugin": "copilot",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "3.3.3",
+        "title": "Copilot zh-cn",
+        "description": "Copilot Localization & Tweaks",
+        "hash": "62e2db7162e2db7162e2db7162e2db71",
+        "created_at": "2026-07-13T05:28:18.685Z",
+        "updated_at": "2026-07-13T05:28:18.685Z"
+    },
+    {
+        "id": "-8TsG6rReuUD-Q_pfnw6TAE4IiBVfwcY",
+        "plugin": "karpathywiki",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.23.2",
+        "title": "Karpathy LLM Wiki zh-cn",
+        "description": "Karpathy LLM Wiki Localization & Tweaks",
+        "hash": "665bc165665bc165665bc165665bc165",
+        "created_at": "2026-07-13T05:28:18.666Z",
+        "updated_at": "2026-07-13T05:28:18.666Z"
+    },
+    {
+        "id": "VPp7ZAuYZ2vqf2bnAAzc3dKdIz-qemBK",
+        "plugin": "pkmer",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "1.0.8",
+        "title": "PKMer",
+        "description": "PKMer Localization & Tweaks",
+        "hash": "49aeb43949aeb43949aeb43949aeb439",
+        "created_at": "2026-07-13T05:28:18.670Z",
+        "updated_at": "2026-07-13T05:28:18.670Z"
     }
 ]
