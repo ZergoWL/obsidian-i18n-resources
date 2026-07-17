@@ -1,0 +1,126 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-image-toolkit",
+        "version": "1.0.0",
+        "title": "Image Toolkit zh-cn",
+        "description": "Image Toolkit Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.4.3",
+        "author": "Zergo"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "img",
+                    "target": "img"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "li",
+                    "target": "li"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "ul",
+                    "target": "ul"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[oit] Image toolkit locale not found",
+                    "target": "[oit] 未找到图像工具包区域设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "copy text error",
+                    "target": "复制文本错误"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "obsidian-image-toolkit: oit-*-container-view has not been initialized!",
+                    "target": "obsidian-image-toolkit: oit-*-container-view 尚未初始化！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[oit] Cannot init container",
+                    "target": "[oit] 无法初始化容器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[oit] Reset view mode: %s",
+                    "target": "[oit] 重置视图模式：%s"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "[oit] Reset view mode to: %s",
+                    "target": "[oit] 将视图模式重置为：%s"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "loading %s plugin v%s ...",
+                    "target": "正在加载 %s 插件 v%s ..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "popout leaf:",
+                    "target": "弹出叶子："
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log('mouseleaveImgView', event, this.imgGlobalStatus.activeImg, '>>> set null')",
+                    "target": "log('mouseleaveImgView', event, this.imgGlobalStatus.activeImg, '>>> set null')"
+                },
+                {
+                    "source": "log('oit-gallery-navbar: ' + (hitCache ? 'hit cache' : 'miss cache')",
+                    "target": "log('oit-gallery-navbar: ' + (hitCache ? 'hit cache' : 'miss cache')"
+                },
+                {
+                    "source": "log('IMAGE_SELECTOR>>', imageSelector, imgs);\n            const len = imgs.length;\n            for (let i = 0; i < len; i++) {\n                if ((imgEl = imgs[i])) {\n                    if ('1' == imgEl.getAttribute('data-oit-target')",
+                    "target": "log('IMAGE_SELECTOR>>', imageSelector, imgs);\n            const len = imgs.length;\n            for (let i = 0; i < len; i++) {\n                if ((imgEl = imgs[i])) {\n                    if ('1' == imgEl.getAttribute('data-oit-target')"
+                },
+                {
+                    "source": "log('mouse Down Gallery...')",
+                    "target": "log('mouse Down Gallery...')"
+                },
+                {
+                    "source": "log('mouse Move Gallery...')",
+                    "target": "log('mouse Move Gallery...')"
+                },
+                {
+                    "source": "error('obsidian-image-toolkit: oit-*-container-view has not been initialized!')",
+                    "target": "error('obsidian-image-toolkit: oit-*-container-view has not been initialized!')"
+                },
+                {
+                    "source": "log('closeContainerView', event, activeImg)\n            this.renderImgView(activeImg.imgViewEl, '', '')",
+                    "target": "log('closeContainerView', event, activeImg)\n            this.renderImgView(activeImg.imgViewEl, '', '')"
+                },
+                {
+                    "source": "name = \"SuppressedError\"",
+                    "target": "name = \"SuppressedError\""
+                },
+                {
+                    "source": "innerText = \" \"",
+                    "target": "innerText = \" \""
+                },
+                {
+                    "source": "text = \"\"",
+                    "target": "text = \"\""
+                }
+            ]
+        }
+    }
+}

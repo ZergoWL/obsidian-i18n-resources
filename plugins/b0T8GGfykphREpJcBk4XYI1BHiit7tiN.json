@@ -3,7 +3,7 @@
     "metadata": {
         "plugin": "editing-toolbar",
         "version": "1.0.0",
-        "title": "Editing Toolbar zh-cn",
+        "title": "[feichuan][zh-cn] Editing Toolbar",
         "description": "Editing Toolbar Localization & Tweaks",
         "language": "zh-cn",
         "supportedVersions": "4.0.8",
@@ -88,7 +88,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "top",
-                    "target": "置顶"
+                    "target": "顶部"
                 },
                 {
                     "type": "CallExpression",
@@ -208,7 +208,7 @@
                     "type": "CallExpression",
                     "name": "addOption",
                     "source": "---- Admonitions ----",
-                    "target": "---- 警示 ----"
+                    "target": "---- 提醒 ----"
                 },
                 {
                     "type": "CallExpression",
@@ -382,13 +382,13 @@
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Cannot find parent dataset id",
-                    "target": "找不到父级数据集ID"
+                    "target": "找不到父数据集ID"
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Cannot find parent command:",
-                    "target": "找不到父级命令:"
+                    "target": "找不到父命令:"
                 },
                 {
                     "type": "CallExpression",
@@ -514,7 +514,7 @@
                     "type": "CallExpression",
                     "name": "error",
                     "source": "[AI Settings] Failed to determine provider route:",
-                    "target": "[AI Settings] 无法确定提供程序路由："
+                    "target": "[AI Settings] 无法确定提供商路由："
                 },
                 {
                     "type": "CallExpression",
@@ -940,7 +940,7 @@
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "📝 Summarize Key Points",
-                    "target": "📝 总结关键点"
+                    "target": "📝 总结要点"
                 },
                 {
                     "type": "ObjectProperty",

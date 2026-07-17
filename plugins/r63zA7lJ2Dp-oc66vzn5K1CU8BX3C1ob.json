@@ -1,0 +1,46 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "image-grid",
+        "version": "1.0.0",
+        "title": "Image Grid",
+        "description": "Image Grid Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.0.1",
+        "author": "Zergo"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "img",
+                    "target": "img"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "span",
+                    "target": "span"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No images specified.",
+                    "target": "未指定任何图像。"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "text: \"No images specified.\"",
+                    "target": "text: \"No images specified.\""
+                },
+                {
+                    "source": "text: `Image not found: ${image.path}`",
+                    "target": "text: `Image not found: ${image.path}`"
+                }
+            ]
+        }
+    }
+}

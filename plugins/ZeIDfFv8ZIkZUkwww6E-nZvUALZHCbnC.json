@@ -1,0 +1,80 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "paste-polish",
+        "version": "1.0.0",
+        "title": "PastePolish zh-cn",
+        "description": "PastePolish Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.0.1",
+        "author": "Zergo"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Strict: Collapse multiple blank lines into one",
+                    "target": "严格：将多个空行合并为一个"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "step",
+                    "target": "逐步：每次减少一个空行（默认）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Gradual: Reduce blank lines by one (Default)",
+                    "target": "逐步：每次减少一个空行（默认）"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose how to compress consecutive blank lines. To prevent formatting issues, at least one blank line is always preserved above Markdown block elements (e.g., tables, dividers).",
+                    "target": "选择如何压缩连续的空行。为防止格式问题，Markdown块元素（如表格、分隔线）上方始终保留至少一个空行。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Blank line reduction mode",
+                    "target": "空行缩减模式"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Polish pasted spacing",
+                    "target": "优化粘贴的间距"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "log('Loading Remove Empty Lines Plugin...')",
+                    "target": "log('Loading Remove Empty Lines Plugin...')"
+                },
+                {
+                    "source": "log('Unloading Remove Empty Lines Plugin...')",
+                    "target": "log('Unloading Remove Empty Lines Plugin...')"
+                },
+                {
+                    "source": "setName('Blank line reduction mode')",
+                    "target": "setName('Blank line reduction mode')"
+                },
+                {
+                    "source": "setDesc('Choose how to compress consecutive blank lines. To prevent formatting issues, at least one blank line is always preserved above Markdown block elements (e.g., tables, dividers).')",
+                    "target": "setDesc('Choose how to compress consecutive blank lines. To prevent formatting issues, at least one blank line is always preserved above Markdown block elements (e.g., tables, dividers).')"
+                },
+                {
+                    "source": "name: 'Polish pasted spacing'",
+                    "target": "name: 'Polish pasted spacing'"
+                },
+                {
+                    "source": "text: 'Remove Empty Lines Settings'",
+                    "target": "text: 'Remove Empty Lines Settings'"
+                }
+            ]
+        }
+    }
+}

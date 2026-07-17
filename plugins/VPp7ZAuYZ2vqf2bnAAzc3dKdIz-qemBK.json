@@ -52,157 +52,157 @@
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Failed to start callback server:",
-                    "target": "Failed to start callback server:"
+                    "target": "无法启动回调服务器："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Failed to start OAuth login:",
-                    "target": "Failed to start OAuth login:"
+                    "target": "无法启动 OAuth 登录："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "OAuth callback processing failed:",
-                    "target": "OAuth callback processing failed:"
+                    "target": "OAuth 回调处理失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Failed to open PKMer login window:",
-                    "target": "Failed to open PKMer login window:"
+                    "target": "无法打开 PKMer 登录窗口："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error processing Pkmer Token (likely malformed or corrupted):",
-                    "target": "Error processing Pkmer Token (likely malformed or corrupted):"
+                    "target": "处理 Pkmer Token 时出错（可能格式错误或已损坏）："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Fallback auth verification failed:",
-                    "target": "Fallback auth verification failed:"
+                    "target": "备用认证验证失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error fetching paginated plugin list:",
-                    "target": "Error fetching paginated plugin list:"
+                    "target": "获取分页插件列表时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error searching plugins with pagination:",
-                    "target": "Error searching plugins with pagination:"
+                    "target": "搜索分页插件时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error fetching theme list:",
-                    "target": "Error fetching theme list:"
+                    "target": "获取主题列表时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error fetching paginated theme list:",
-                    "target": "Error fetching paginated theme list:"
+                    "target": "获取分页主题列表时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error searching themes with pagination:",
-                    "target": "Error searching themes with pagination:"
+                    "target": "搜索分页主题时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error fetching plugin tags:",
-                    "target": "Error fetching plugin tags:"
+                    "target": "获取插件标签时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error fetching installed plugins:",
-                    "target": "Error fetching installed plugins:"
+                    "target": "获取已安装插件时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error getting plugin status:",
-                    "target": "Error getting plugin status:"
+                    "target": "获取插件状态时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error loading themes:",
-                    "target": "Error loading themes:"
+                    "target": "加载主题时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "OAuth login failed:",
-                    "target": "OAuth login failed:"
+                    "target": "OAuth 登录失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Head.vue: Error fetching download count:",
-                    "target": "Head.vue: Error fetching download count:"
+                    "target": "Head.vue：获取下载数量时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Head.vue: Error fetching PKMer version:",
-                    "target": "Head.vue: Error fetching PKMer version:"
+                    "target": "Head.vue：获取 PKMer 版本时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error during initial login check:",
-                    "target": "Error during initial login check:"
+                    "target": "初始登录检查时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error fetching outdated plugins:",
-                    "target": "Error fetching outdated plugins:"
+                    "target": "获取过期插件时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error searching plugins:",
-                    "target": "Error searching plugins:"
+                    "target": "搜索插件时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error loading theme data:",
-                    "target": "Error loading theme data:"
+                    "target": "加载主题数据时出错："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Plugin install failed:",
-                    "target": "Plugin install failed:"
+                    "target": "插件安装失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Theme install failed:",
-                    "target": "Theme install failed:"
+                    "target": "主题安装失败："
                 },
                 {
                     "type": "CallExpression",
                     "name": "error",
                     "source": "Error occurred while processing leaf:",
-                    "target": "Error occurred while processing leaf:"
+                    "target": "处理叶子节点时发生错误："
                 },
                 {
                     "type": "CallExpression",
                     "name": "log",
                     "source": "welcome Pkmer Market",
-                    "target": "welcome Pkmer Market"
+                    "target": "欢迎使用 Pkmer Market"
                 },
                 {
                     "type": "CallExpression",
@@ -328,7 +328,7 @@
                     "type": "CallExpression",
                     "name": "setTitle",
                     "source": "鐧诲綍 PKMer",
-                    "target": "鐧诲綍 PKMer"
+                    "target": "登录 PKMer"
                 },
                 {
                     "type": "CallExpression",
@@ -496,19 +496,19 @@
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Open Pkmer Market View",
-                    "target": "Open Pkmer Market View"
+                    "target": "打开 Pkmer Market 视图"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "placeholder",
                     "source": "Search plugins...",
-                    "target": "Search plugins..."
+                    "target": "搜索插件..."
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "placeholder",
                     "source": "Search themes...",
-                    "target": "Search themes..."
+                    "target": "搜索主题..."
                 },
                 {
                     "type": "ObjectProperty",
