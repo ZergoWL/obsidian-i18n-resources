@@ -1,0 +1,86 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "tag-wrangler",
+        "version": "1.0.0",
+        "title": "Tag Wrangler",
+        "description": "Tag Wrangler Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.6.4",
+        "author": "Anonym0usPlayer"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "setContent",
+                    "source": "Enter new name (must be a valid Obsidian tag name):\n",
+                    "target": "输入新名称（须为有效Obsidian标签名）：\n"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "WARNING: No Undo!",
+                    "target": "警告：无法撤销！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Create Tag Page",
+                    "target": "创建标签页"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "Notice(`Operation ${u.aborted?\"cancelled\":\"complete\"}: ${f} file(s) updated`)",
+                    "target": "Notice(`操作${u.aborted?\"取消\":\"完成\"}：${f} 个文件已更新`)"
+                },
+                {
+                    "source": "setTitle(`Renaming #${s} (and any sub-tags)`)",
+                    "target": "setTitle(`重命名 #${s}（及所有子标签）`)"
+                },
+                {
+                    "source": "Notice(`\"${t}\" is not a valid Obsidian tag name`)",
+                    "target": "Notice(`“${t}”不是有效的 Obsidian 标签名`)"
+                },
+                {
+                    "source": "setTitle(\"WARNING: No Undo!\")",
+                    "target": "setTitle(\"警告：无法撤销！\")"
+                },
+                {
+                    "source": ".setAction(`Rename to ${u}`)",
+                    "target": ".setAction(`重命名为 ${u}`)"
+                },
+                {
+                    "source": "\"Create tag page\"",
+                    "target": "\"创建标签页\""
+                },
+                {
+                    "source": "\"New search for #\"",
+                    "target": "\"搜索 #\""
+                },
+                {
+                    "source": "\"Require #\"+n+\" in search\"",
+                    "target": "\"搜索需含 #\"+n+\"\""
+                },
+                {
+                    "source": "\"Open random note\"",
+                    "target": "\"随机打开笔记\""
+                },
+                {
+                    "source": "\"Exclude #\"+n+\" from search\"",
+                    "target": "\"搜索排除 #\"+n+\"\""
+                },
+                {
+                    "source": ".setContent(`A tag page for ${f} does not exist.  Create it?`)",
+                    "target": ".setContent(`${f} 的标签页不存在。创建？`)"
+                },
+                {
+                    "source": "\"Rename #\"",
+                    "target": "\"重命名 #\""
+                }
+            ]
+        }
+    }
+}
