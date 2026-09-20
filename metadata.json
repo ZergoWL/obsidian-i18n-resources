@@ -73,9 +73,9 @@
         "supported_versions": "4.0.8",
         "title": "[feichuan][zh-cn] Editing Toolbar",
         "description": "Editing Toolbar Localization & Tweaks",
-        "hash": "0f8782210f8782210f8782210f878221",
+        "hash": "6de68b296de68b296de68b296de68b29",
         "created_at": "2026-07-13T05:28:18.629Z",
-        "updated_at": "2026-07-17T07:33:22.349Z"
+        "updated_at": "2026-09-20T13:33:48.980Z"
     },
     {
         "id": "4KPM3Giu8iZtkQAbcEVMavtemUxh0r9I",
@@ -190,9 +190,9 @@
         "supported_versions": "1.0.0",
         "title": "Emoji Toolbar zh-cn",
         "description": "Emoji Toolbar Localization & Tweaks",
-        "hash": "4bda412f4bda412f4bda412f4bda412f",
+        "hash": "2c77629c2c77629c2c77629c2c77629c",
         "created_at": "2026-07-13T05:28:18.679Z",
-        "updated_at": "2026-07-13T05:28:18.679Z"
+        "updated_at": "2026-09-20T13:33:48.992Z"
     },
     {
         "id": "QdTvfq6eSHd3cZl7_frh5VxPkeDXT8-B",
@@ -212,13 +212,13 @@
         "plugin": "media-extended",
         "type": "plugin",
         "language": "zh-cn",
-        "version": "4.2.7",
-        "supported_versions": "4.2.7",
+        "version": "4.2.5",
+        "supported_versions": "4.2.5",
         "title": "[zh-tw] Media Extended",
         "description": "Media Extended 繁體中文化與微調",
-        "hash": "367f967c367f967c367f967c367f967c",
+        "hash": "544d150b544d150b544d150b544d150b",
         "created_at": "2026-07-13T05:28:18.645Z",
-        "updated_at": "2026-07-13T05:28:18.645Z"
+        "updated_at": "2026-09-20T13:33:48.983Z"
     },
     {
         "id": "Y3tmH_52a6_JWQsRpWwOmezcEyyHYghc",
@@ -531,5 +531,31 @@
         "created_at": "2026-09-20T07:52:25.636Z",
         "updated_at": "2026-09-20T07:52:57.328Z",
         "type": "plugin"
+    },
+    {
+        "id": "kgSaX5MFKsItRoSxVXzQbKxfth8YJjHF",
+        "plugin": "tag-wrangler",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supported_versions": "0.6.4",
+        "title": "Tag Wrangler",
+        "description": "Tag Wrangler Localization & Tweaks",
+        "hash": "025c5de9025c5de9025c5de9025c5de9",
+        "created_at": "2026-09-20T13:33:48.987Z",
+        "updated_at": "2026-09-20T13:33:48.987Z"
+    },
+    {
+        "id": "D_0FrmPLmpB7R2QmXtNel2rC08DA1njt",
+        "plugin": "copilot",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "3.2.7",
+        "title": "Copilot",
+        "description": "Copilot Localization & Tweaks",
+        "hash": "2ee0d62a2ee0d62a2ee0d62a2ee0d62a",
+        "created_at": "2026-09-20T13:33:48.988Z",
+        "updated_at": "2026-09-20T13:33:48.988Z"
     }
 ]
