@@ -526,10 +526,10 @@
         "version": "1.3.0",
         "supported_versions": "1.3.0",
         "title": "Data Files Editor",
-        "description": "Data Files Editor Localization & Tweaks",
+        "description": "Data Files Editor",
         "hash": "029fe9e6029fe9e6029fe9e6029fe9e6",
         "created_at": "2026-09-20T07:52:25.636Z",
-        "updated_at": "2026-09-20T07:52:25.636Z",
+        "updated_at": "2026-09-20T07:52:57.328Z",
         "type": "plugin"
     }
 ]
